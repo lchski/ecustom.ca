@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<title><%= title 'Lucas Cherkewski', @item[:title], 'Personal Website' %></title>
+	
+	<link rel="stylesheet" href="/style.css">
+	
+	<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+
+<div id="container">
+	<header>
+		<a href="/">Lucas Cherkewski</a>
+	</header>
+	
+	<section>
+		<%= yield %>
+	</section>
+</div>
+
+<footer>
+	<a href="/">These blatherings &copy; <strong>Lucas Cherkewski</strong>.</a>
+</footer>
+
+</body>
+</html>

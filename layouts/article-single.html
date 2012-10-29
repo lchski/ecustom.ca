@@ -1,0 +1,9 @@
+<article>
+	<h1><%= @item[:title] %></h1>
+	
+	<%= yield %>
+	
+	<% if @item[:created_at] %>
+		<small>Published on the <%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %>.</small>
+	<% end %>
+</article>
