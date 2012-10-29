@@ -2,9 +2,9 @@
 title: The Lady on the Bus
 kind: article
 created_at: 2012-10-15
-summary: Short version!
+summary: My story about a woman who boards my bus each morning, and how other people on the bus react to her presence.
 published: true
-custom_link: Read on, to find out more
+custom_link: Read the full story
 ---
 
 Every morning I witness several acts of compassion which bring a smile to my face without fail.
@@ -25,7 +25,7 @@ Numerous times, I have seen people near the front of the bus (nearest to the wom
 
 Today, I saw something I hadn't yet seen, an act of compassion which again aimed to create a seat for the lady.
 
-This morning, the bus rolled up to the stop, as usual, then continued on its way. The bus stopped again shortly after to let the woman on board. As she stood at the front counting otu her fare, the man beside me reached forward to the bank of seats in front of him  (which are folded up to allow for wheelchairs or strollers if necessary) and unfolded them. This was to allow the woman to sit there, to have plenty of room for when she had to get off.
+This morning, the bus rolled up to the stop, as usual, then continued on its way. The bus stopped again shortly after to let the woman on board. As she stood at the front counting otu her fare, the man beside me reached forward to the bank of seats in front of him (which are folded up to allow for wheelchairs or strollers if necessary) and unfolded them. This was to allow the woman to sit there, to have plenty of room for when she had to get off.
 
 Now, earlier I mentioned that these latter acts often go unappreciated. Every day, as people vacate or unfold chairs for this woman, she prefers to stand. Now, I have no issue with this. She may have difficulty sitting or standing up, which would explain her preference to remain standing.
 
