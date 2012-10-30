@@ -6,4 +6,7 @@
 	<% if @item[:created_at] %>
 		<small>Published on the <%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %>.</small>
 	<% end %>
+	
+	<h2 class="feed-pimp-header"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US" title="Subscribe - FeedBurner">Subscribe for More</a></h2>
+	<p class="feed-pimp">Like what you just read? While I don't have social media buttons for you to share it with, I do offer a handy dandy way for you to subscribe to receive updates from my blog through email. <a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US" title="Subscribe - FeedBurner">Subscribe to my articles by email</a>. I promise I won't spam you with silly stuff; you get just what you see above.</p>
 </article>
