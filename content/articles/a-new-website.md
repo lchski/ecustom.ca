@@ -1,7 +1,7 @@
 ---
 title: A New Website
 kind: article
-created_at: 2012-10-29
+created_at: 2012-10-29 20:00:00 -0400
 summary: Ahh.... Can you smell the new-website smell? After a long, long, long time, I've finally crafted the new version of ecustom.ca, now my personal website. This is the official announcement article.
 published: true
 custom_link: 
