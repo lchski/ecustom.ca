@@ -1,8 +1,8 @@
 ---
-title: WordCamp Toronto: Developers 2012
+title: "WordCamp Toronto: Developers 2012"
 kind: article
 created_at: 2012-11-11 19:00:00 -0400
-summary: This past weekend, I had the fortune to attend WordCamp Toronto: Developers 2012, meeting some really neat people and learning plenty of cool WordPress information along the way.
+summary: "This past weekend, I had the fortune to attend WordCamp Toronto: Developers 2012, meeting some really neat people and learning plenty of cool WordPress information along the way."
 published: true
 custom_link: 
 ---
