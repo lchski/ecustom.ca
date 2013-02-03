@@ -17,6 +17,10 @@ compile '/stylesheet/' do
   # don’t filter or layout
 end
 
+compile '/htaccess/' do
+  # don't filter or layout
+end
+
 compile '/feed/' do
   filter :erb
 end
@@ -61,6 +65,10 @@ end
 
 route '/stylesheet/' do
   '/style.css'
+end
+
+route '/htaccess/' do
+  '/.htaccess'
 end
 
 route '/feed/' do
