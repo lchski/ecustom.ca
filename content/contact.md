@@ -5,11 +5,15 @@ page_title: Get in Touch
 
 Hey! Let us talk. I love communicating with people, I believe discussion is one of the foundations of success within the world.
 
-## Contact
+## Twitter
 
-You can email me using the following email address: <lucas@ecustom.ca>. This is the best way to contact me, and as such, the only method which I list.
+I use Twitter! If you do too, and you just want to say hello or mention you read something of mine, that's probably the easiest avenue through which to do so. You can find me on Twitter [@lchski](https://twitter.com/lchski). I look forward to hearing from you!
 
-You can usually expect a response from me in a day or two, if it takes longer than that your message may not have gotten through (spam filter or email malfunction) or I may be composing a response which requires extra time than a quick message.
+## Email
+
+You can email me using the following email address: <lucas@ecustom.ca>. This is the best way to contact me for long form.
+
+You can usually expect a response from me in a day or two, if it takes longer than that your message may not have gotten through (spam filter or email malfunction) or I may be composing a response which requires more time than a quick message.
 
 Please keep the following guidelines in mind when you email me. It makes the conversation much better for both of us.
 
