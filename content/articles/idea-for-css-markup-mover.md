@@ -103,3 +103,5 @@ The problem is that when we have a responsive layout and we try to move a UI ele
 My proposed solution is the creation of a new HTML element, `<placeholder>`, and a CSS property, `target`, which dictate where the markup in question should be moved to in the logical document structure. This allows us to create responsive websites which are more receptive to the very dynamic nature of web publishing today, and still preserve our carefully crafted layouts.
 
 I would love to see this implemented in some way, but it is of course important to take into account the semantics of the new elements being created. That said, I still believe it is a good solution to our problem, and would love to work with someone to make it happen!
+
+Thanks for taking the time to read this lengthy, long-winded proposal. Perhaps I'll release a much more succinct version in the near future.
