@@ -47,7 +47,7 @@ Why do this?
 
 By asking only questions which are relevant to the content delivered, you avoid wasting the time of the speaker and audience spent answering and listening to a question which likely doesn't apply to them.
 
---
+* * *
 
 There you have it. A simple trick which you can use to get even more out of your talk-listening experience.
 
