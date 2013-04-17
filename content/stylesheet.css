@@ -41,3 +41,5 @@ section{padding:0 1em;font-size:1.25em;}section h1,section h2{font-size:1.5em;te
 section h1{font-size:2em;}section p{line-height:2em;margin:1.5em 0;}section .feed-pimp-header{font-size:1.2em;}
 footer{padding:1.5em;position:static;margin-top:2em;height:auto;}footer a{padding-top:0;font-size:1em;}
 }
+
+hr{border:0;height:0;border-top:1px solid rgba(0,0,0,0.1);border-bottom:1px solid rgba(255,255,255,0.3)}
