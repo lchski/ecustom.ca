@@ -1,5 +1,6 @@
 ---
 title: Get more from talks by asking the right questions
+kind: article
 created_at: 2013-04-16 21:00:00 -0400
 summary: A simple trick to get more out of talks, for you and everyone else in attendance.
 published: true
