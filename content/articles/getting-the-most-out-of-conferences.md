@@ -1,15 +1,14 @@
 ---
-title: Getting the Most out of Conferences
-kind: article
+title: Get more from talks by asking the right questions
 created_at: 2013-04-16 21:00:00 -0400
-summary: A simple trick to get more out of conferences, for you and everyone at the talks you attend.
+summary: A simple trick to get more out of talks, for you and everyone else in attendance.
 published: true
 custom_link: 
 ---
 
-What is the secret to getting the moust out of talks? Getting *involved* at talks. Just by changing from a listener to an engager, you will instantly get more out of events you attend.
+What is the secret to getting the most out of talks? Getting *involved* at talks. Just by changing from a listener to an engager, you will instantly get more out of events you attend.
 
-But, how to become an engager? Aside from the excellent advice of Clay Hebert to [sit in the front row], there is another easy hack which will get you more out of talks.
+But, how to become an engager?
 
 Ask questions.
 
@@ -43,11 +42,13 @@ So which questions do you ask during this question period?
 
 Ask the questions everyone in the room can take something away from the answer of. These are the questions of immediate value, and more likely than not are the ones that you wrote down on that list from earlier.
 
-Why do this? By asking only questions which are relevant to the content delivered, you avoid wasting the time of the speaker and audience spent answering and listening to a question which likely doesn't apply to them.
+Why do this?
+
+By asking only questions which are relevant to the content delivered, you avoid wasting the time of the speaker and audience spent answering and listening to a question which likely doesn't apply to them.
 
 --
 
-There you have it. Another simple trick which you can use to get even more out of your conference-going experience.
+There you have it. A simple trick which you can use to get even more out of your talk-listening experience.
 
 By asking the right questions at the right time, you as well as everyone else in the room will enjoy the event that much more.
 
