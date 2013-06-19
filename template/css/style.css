@@ -1,0 +1,187 @@
+@import url("normalize.css");
+html,
+body {
+  height: 100%;
+}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  background: #fafafa;
+  font-family: Georgia, serif;
+}
+#container {
+  min-height: 100%;
+}
+header a,
+section,
+footer a {
+  max-width: 32.1em;
+  margin: 0 auto;
+}
+header,
+footer {
+  background: #082e3f;
+  padding: 1.5em;
+}
+header a,
+footer a {
+  color: rgba(25, 139, 191, 0.9);
+  font-size: 1.2em;
+  line-height: 0;
+  text-align: center;
+  display: block;
+}
+header a:hover,
+footer a:hover {
+  color: #198bbf;
+}
+section {
+  padding: 0 1em 4em 0;
+  font-size: 1.25em;
+  overflow: auto;
+}
+section article {
+  color: rgba(6, 6, 6, 0.9);
+}
+section h1,
+section h2 {
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+}
+section h2 {
+  font-size: 1.2em;
+}
+section h2.section-header {
+  text-transform: uppercase;
+  font-style: normal;
+  font-size: 1em;
+  margin-top: 1.5em;
+}
+section h2.article-listing-header {
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+section h2 a {
+  color: rgba(6, 6, 6, 0.9);
+  text-decoration: none;
+}
+section h2 a:hover {
+  color: rgba(25, 139, 191, 0.9);
+  text-decoration: underline;
+}
+section p {
+  line-height: 1.5em;
+  font-family: Georgia, serif;
+}
+section a {
+  color: rgba(6, 6, 6, 0.9);
+}
+section a:hover {
+  color: rgba(25, 139, 191, 0.9);
+}
+section figure blockquote {
+  margin: 0 2em;
+  line-height: 1.2em;
+}
+section figure blockquote.pullquote {
+  margin: 0 0 2em 2em;
+  width: 50%;
+  float: right;
+}
+section figure blockquote:before {
+  content: '\201C';
+}
+section figure blockquote:after {
+  content: '\201D';
+}
+section figure figcaption p {
+  margin: 0.5em 0 0 2em;
+  margin-left: 2em;
+  margin-top: 0.5em;
+  font-weight: normal;
+  line-height: 1.2em;
+  display: block;
+}
+section figure figcaption p:before {
+  content: '\2014\00A0';
+}
+section small {
+  font-style: italic;
+}
+section ol#article-list {
+  padding: 0;
+}
+section ol#article-list li {
+  list-style: none;
+}
+footer {
+  position: relative;
+  margin-top: -3.125em;
+  height: 3.125em;
+  clear: both;
+  padding: 0;
+}
+footer a {
+  padding-top: 2em;
+  font-size: 0.8em;
+}
+@media only screen and (max-width: 47.9375em) {
+  html {
+    font-size: 75%;
+    -webkit-text-size-adjust: 75%;
+    -ms-text-size-adjust: 75%;
+  }
+  header a,
+  section,
+  footer a {
+    max-width: 100%;
+    margin: 0;
+  }
+  header,
+  footer {
+    padding: 1.5em;
+  }
+  header a,
+  footer a {
+    font-size: 1.4em;
+    line-height: 1em;
+    text-align: center;
+    display: block;
+  }
+  section {
+    padding: 0 1em;
+    font-size: 1.25em;
+  }
+  section h1,
+  section h2 {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 1.5em;
+  }
+  section h1 {
+    font-size: 2em;
+  }
+  section p {
+    line-height: 2em;
+    margin: 1.5em 0;
+  }
+  footer {
+    padding: 1.5em;
+    position: static;
+    margin-top: 2em;
+    height: auto;
+  }
+  footer a {
+    padding-top: 0;
+    font-size: 1em;
+  }
+}
