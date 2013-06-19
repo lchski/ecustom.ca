@@ -1,4 +1,5 @@
 output/
 tmp/
 crash.log
-content/assets/
+content/assets/img/
+.sass-cache/
