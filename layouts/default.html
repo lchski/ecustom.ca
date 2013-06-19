@@ -17,7 +17,9 @@
 	</head>
 	<body>
 		<%= render '_page-header' %>
-		<%= yield %>
+		<div id="main" role="main">
+			<%= yield %>
+		</div>
 		<%= render '_page-footer' %>
 
 		<script type="text/javascript">
