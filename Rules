@@ -64,7 +64,7 @@ compile '*' do
 end
 
 route '/stylesheet/' do
-  '/style.css'
+  '/css/screen.css'
 end
 
 route '/htaccess/' do
