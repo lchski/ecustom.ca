@@ -63,6 +63,10 @@ compile '*' do
   end
 end
 
+route 'assets/scss/*' do
+  nil
+end
+
 route '/assets/css/*/' do
   item.identifier.chop + '.' + item[:extension]
 end
