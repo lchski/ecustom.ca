@@ -1,3 +1,5 @@
+// See here for typographic scale: http://modularscale.com/scale/?px1=24&px2=&ra1=1.25&ra2=0
+
 @mixin heading-text($italic: false, $bold: false) {
 	font-family: "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -12,12 +14,13 @@
 		font-weight: 700;
 	}
 	@else {
-		font-weight: 400;	
+		font-weight: 400;
 	}
 }
 
 @mixin body-text($italic: false, $bold: false) {
 	font-family: "freight-text-pro", Georgia, serif;
+	@include font-size(24);
 
 	@if $italic {
 		font-style: italic;
@@ -30,6 +33,11 @@
 		font-weight: 700;
 	}
 	@else {
-		font-weight: 400;	
+		font-weight: 400;
 	}
+}
+
+@mixin font-size($sizeValue: 24) {
+	font-size: $sizeValue + px;
+	font-size: ($sizeValue / 10) + rem;
 }

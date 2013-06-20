@@ -4,8 +4,8 @@
 	box-sizing: border-box;
 }
 
-body {
-	font-size: 20px; // Set 1em to be equal to 20px, to be easier to work with.
+html {
+	font-size: 62.5%; // Set 1rem to be equal to 10px, to be easier to work with.
 }
 
 .visually-hidden { /*http://developer.yahoo.com/blogs/ydn/posts/2012/10/clip-your-hidden-content-for-better-accessibility/*/
