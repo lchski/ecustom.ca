@@ -1,2 +1,11 @@
 @import "_base";
 @import "_normalize";
+@import "_type";
+
+p {
+	@include body-text();
+}
+
+h1, h2, h3, h4, h5, h6 {
+	@include heading-text();
+}

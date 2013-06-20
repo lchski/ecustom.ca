@@ -1,0 +1,35 @@
+@mixin heading-text($italic: false, $bold: false) {
+	font-family: "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+	@if $italic {
+		font-style: italic;
+	}
+	@else {
+		font-style: normal;
+	}
+
+	@if $bold {
+		font-weight: 700;
+	}
+	@else {
+		font-weight: 400;	
+	}
+}
+
+@mixin body-text($italic: false, $bold: false) {
+	font-family: "freight-display-pro", "Adobe Garamond Pro", Georgia, serif;
+
+	@if $italic {
+		font-style: italic;
+	}
+	@else {
+		font-style: normal;
+	}
+
+	@if $bold {
+		font-weight: 700;
+	}
+	@else {
+		font-weight: 400;	
+	}
+}
