@@ -1,3 +1,9 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 body {
 	font-size: 20px; // Set 1em to be equal to 20px, to be easier to work with.
 }
@@ -11,5 +17,6 @@ body {
     height: 1px !important;
     width: 1px !important;
     overflow: hidden;
-} 
-body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; } 
+}
+
+body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; }

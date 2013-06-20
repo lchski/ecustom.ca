@@ -17,7 +17,7 @@
 }
 
 @mixin body-text($italic: false, $bold: false) {
-	font-family: "freight-display-pro", "Adobe Garamond Pro", Georgia, serif;
+	font-family: "freight-text-pro", Georgia, serif;
 
 	@if $italic {
 		font-style: italic;
