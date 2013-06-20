@@ -1,5 +1,18 @@
 footer.site-footer {
 	@include sans-serif-font(16);
+
+	background: $black;
+	color: $white;
+
+	padding: 1rem 0;
+
+	a {
+		color: $orange;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
 	
 	.networks {
 		margin-top: 1rem;
@@ -19,7 +32,11 @@ footer.site-footer {
 
 		@include bp(gamma) {
 			margin-top: 0;
-			float: right;	
+			float: right;
 		}
+	}
+
+	.copyright {
+		margin-top: 1rem;
 	}
 }
