@@ -19,11 +19,17 @@
 		<![endif]-->
 	</head>
 	<body>
-		<%= render '_page-header' %>
-		<div id="main" role="main">
-			<%= yield %>
+		<div class="container">
+			<%= render '_page-header' %>
 		</div>
-		<%= render '_page-footer' %>
+		<div id="main" role="main">
+			<div class="container">
+				<%= yield %>
+			</div>
+		</div>
+		<div class="container">
+			<%= render '_page-footer' %>
+		</div>
 
 		<script type="text/javascript">
 		  var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-15908755-1"]),_gaq.push(["_trackPageview"]),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();

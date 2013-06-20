@@ -1,11 +1,17 @@
 @import "_base";
 @import "_normalize";
+@import "_grid";
 @import "_type";
+@import "_footer";
 
-p {
-	@include body-text();
+body {
+	@include serif-font();
 }
 
 h1, h2, h3, h4, h5, h6 {
-	@include heading-text();
+	@include sans-serif-font();
+}
+
+.container {
+	padding: 0 1em;
 }

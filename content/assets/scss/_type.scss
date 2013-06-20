@@ -1,7 +1,15 @@
-// See here for typographic scale: http://modularscale.com/scale/?px1=24&px2=&ra1=1.25&ra2=0
+/* TYPOGRAPHIC SCALES
+ *
+ * 20px-base: http://modularscale.com/scale/?px1=20&px2=&ra1=1.25&ra2=0
+ * 24px-base: http://modularscale.com/scale/?px1=24&px2=&ra1=1.25&ra2=0
+ *
+ * Increase base as we go up in screen size.
+ * 
+ */
 
-@mixin heading-text($italic: false, $bold: false) {
+@mixin sans-serif-font($size: 25, $italic: false, $bold: false) {
 	font-family: "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	@include font-size($size);
 
 	@if $italic {
 		font-style: italic;
@@ -18,9 +26,9 @@
 	}
 }
 
-@mixin body-text($italic: false, $bold: false) {
+@mixin serif-font($size: 20, $italic: false, $bold: false) {
 	font-family: "freight-text-pro", Georgia, serif;
-	@include font-size(24);
+	@include font-size($size);
 
 	@if $italic {
 		font-style: italic;
@@ -37,7 +45,12 @@
 	}
 }
 
-@mixin font-size($sizeValue: 24) {
+@mixin font-size($sizeValue: 20, $useRem: true) {
 	font-size: $sizeValue + px;
-	font-size: ($sizeValue / 10) + rem;
+	@if $useRem {
+		font-size: ($sizeValue / 10) + rem;		
+	}
+	@else {
+		font-size: ($sizeValue / 10) + em;
+	}
 }

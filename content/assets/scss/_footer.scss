@@ -1,0 +1,25 @@
+footer.site-footer {
+	@include sans-serif-font(16);
+	
+	.networks {
+		margin-top: 1rem;
+
+		li {
+			display: inline-block;
+			list-style: none;
+
+			&:after {
+				content: ',';
+			}
+
+			&:last-child:after {
+				content: '.';
+			}
+		}
+
+		@include bp(gamma) {
+			margin-top: 0;
+			float: right;	
+		}
+	}
+}
