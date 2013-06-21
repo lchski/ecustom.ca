@@ -15,7 +15,7 @@ Ask questions.
 
 Here's how to ask them, the best way:
 
-# Prepare questions in advance
+## Prepare questions in advance
 
 Read the description of the session you're attending ahead of time, and learn background info on your speaker.
 
@@ -23,19 +23,19 @@ Doing this will allow you to come up with questions that suit the speaker's know
 
 Got a list of pre-event questions? Great, now leave some room for expansion.
 
-# Write down new questions as they come to you
+## Write down new questions as they come to you
 
 Chances are, as your speaker talks, new questions will come up. Add these to your list, in a separate section. We'll come back to this separate section later.
 
 Now that you've got questions to ask, it's time to ask them. But wait! There is a good time to ask them, and it's probably not now.
 
-# Ask your questions at the end
+## Ask your questions at the end
 
 Most speakers include time at the end of their talk for questions. This is the best time to ask them! Although speakers will often say it's okay to interrupt them at any time to ask questions, doing so will likely throw them off-course, meaning you may not get the best answer you could've hoped for.
 
 So, save your questions for the end. But, should you ask all of your questions? Probably not, at least not all at once.
 
-# Prioritize which questions to ask when
+## Prioritize which questions to ask when
 
 Look through your list of questions. It's likely that many of the ones you prepared ahead of time do not fit in with the subject matter discussed. This is okay. Save these questions to ask at another time, perhaps privately in the halls or over email.
 
