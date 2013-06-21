@@ -38,6 +38,10 @@
 		&.article-information {
 			@include font-size(16);
 		}
+
+		&.article-feed-subscribe {
+			@include sans-serif-font(25);
+		}
 	}
 
 	a {
