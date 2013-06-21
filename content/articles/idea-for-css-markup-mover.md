@@ -75,8 +75,8 @@ This logical movement can be seen as being outside of the realm of CSS. Is it go
 
 Additionally, this method relies on a new element, `<placeholder>`. Should an element which is used solely for the purpose of styling exist? While some may disagree, Mike Robinson points out on *HTML5 Doctor* that the role of the `<div>` element, may be (at least partially) that:
 
-<figure>
-	<blockquote>You should use <code>&lt;div&gt;</code> when there is no other more semantically appropriate element that suits your purpose. Its most common use will likely be for stylistic purposes &emdash; i.e., wrapping some semantically marked-up content in a CSS-styled container.</blockquote>
+<figure class="block-quote">
+	<blockquote>You should use <code>&lt;div&gt;</code> when there is no other more semantically appropriate element that suits your purpose. Its most common use will likely be for stylistic purposes --- i.e., wrapping some semantically marked-up content in a CSS-styled container.</blockquote>
 	<figcaption>
 		<p><cite><a href="http://html5doctor.com/you-can-still-use-div/" title="You can still use div">You can still use div</a></cite> by Mike Robinson (via HTML5 Doctor).</p>
 	</figcaption>
