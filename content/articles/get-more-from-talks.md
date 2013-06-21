@@ -7,7 +7,7 @@ published: true
 custom_link: 
 ---
 
-What is the secret to getting the most out of talks? Getting *involved* at talks. Just by changing from a listener to an engager, you will instantly get more out of events you attend.
+<p class="article-intro">What is the secret to getting the most out of talks? Getting <em>involved</em> at talks. Just by changing from a listener to an engager, you will instantly get more out of events you attend.</p>
 
 But, how to become an engager?
 
