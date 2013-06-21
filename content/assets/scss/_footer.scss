@@ -1,10 +1,14 @@
 footer.site-footer {
-	@include sans-serif-font(16);
+	@include sans-serif-font(-1);
 
 	background: $black;
 	color: $white;
 
 	padding: 1rem 0;
+
+	p {
+		@include font-size(-1);
+	}
 
 	a {
 		color: $orange;
@@ -15,6 +19,7 @@ footer.site-footer {
 	}
 	
 	.networks {
+		@include font-size(-1);
 		margin-top: 1rem;
 
 		li {

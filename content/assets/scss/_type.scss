@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6, p {
 	padding: 0;
 }
 
-@mixin sans-serif-font($size: 25, $italic: false, $bold: false) {
+@mixin sans-serif-font($size: 2, $italic: false, $bold: false) {
 	font-family: "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	@include font-size($size);
 
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6, p {
 	}
 }
 
-@mixin serif-font($size: 20, $italic: false, $bold: false) {
+@mixin serif-font($size: 1, $italic: false, $bold: false) {
 	font-family: "freight-text-pro", Georgia, serif;
 	@include font-size($size);
 
@@ -50,12 +50,27 @@ h1, h2, h3, h4, h5, h6, p {
 	}
 }
 
-@mixin font-size($sizeValue: 20, $useRem: true) {
-	font-size: $sizeValue + px;
-	@if $useRem {
-		font-size: ($sizeValue / 10) + rem;		
+@mixin font-size($scalePosition, $sizeValue: false) {
+	@if $sizeValue {
+		font-size: $sizeValue + px;
+		font-size: ($sizeValue / 10) + rem;
 	}
-	@else {
-		font-size: ($sizeValue / 10) + em;
+	@else if $scalePosition == -1 {
+		font-size: 0.8em;
+	}
+	@else if $scalePosition == 1 {
+		font-size: 1em;
+	}
+	@else if $scalePosition == 2 {
+		font-size: 1.25em;
+	}
+	@else if $scalePosition == 3 {
+		font-size: 1.563em;
+	}
+	@else if $scalePosition == 4 {
+		font-size: 1.953em;
+	}
+	@else if $scalePosition == 5 {
+		font-size: 2.441em;
 	}
 }

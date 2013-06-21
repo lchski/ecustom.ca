@@ -3,7 +3,7 @@
 	padding: 2rem 0;
 
 	h1.article-title {
-		@include font-size(39.063);
+		@include font-size(4);
 
 		line-height: 1.2;
 		margin-bottom: 1.5rem;
@@ -15,7 +15,7 @@
 	}
 
 	h3 {
-		@include sans-serif-font(25, true);
+		@include sans-serif-font(2, true);
 	}
 
 	p {
@@ -23,16 +23,16 @@
 		line-height: 1.4;
 
 		&.article-intro {
-			@include font-size(25);
+			@include font-size(2);
 			margin-bottom: 1.5rem;
 		}
 
 		&.article-information {
-			@include font-size(16);
+			@include font-size(-1);
 		}
 
 		&.article-feed-subscribe {
-			@include sans-serif-font(25);
+			@include sans-serif-font(2);
 		}
 	}
 
@@ -42,23 +42,23 @@
 		padding: 0.1rem;
 
 		font-family: "Monaco", "Inconsolata", Consolas, monospaced;
-		@include font-size(16);
+		@include font-size(-1);
 	}
 
 	figure.block-quote {
 			padding-left: 2rem;
 			border-left: 0.5rem solid $blue;
 		blockquote {
-			@include serif-font(20, true);
+			@include serif-font(1, true);
 		}
 
 		figcaption {
 			margin-top: 0.5rem;
 
-			@include font-size(16);
+			@include font-size(-1);
 
 			cite {
-				@include serif-font(16, true);
+				@include serif-font(-1, true);
 			}
 		}
 	}

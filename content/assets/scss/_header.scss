@@ -1,5 +1,5 @@
 header.site-header {
-	@include sans-serif-font(20);
+	@include sans-serif-font(1);
 
 	background: $black;
 	color: $white;
@@ -20,7 +20,7 @@ header.site-header {
 		}
 
 		&.name {
-			@include font-size(25);
+			@include font-size(2);
 			color: $white;
 
 			&:hover {
