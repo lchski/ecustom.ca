@@ -4,7 +4,7 @@
 	<%= yield %>
 	
 	<% if @item[:created_at] %>
-		<small>Published on the <%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %>.</small>
+		<p class="article-information">Published on the <%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %>.</p>
 	<% end %>
 	
 	<h2 class="feed-pimp-header">Questions, Comments, Concerns?</h2>
