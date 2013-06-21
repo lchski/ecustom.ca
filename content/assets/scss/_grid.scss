@@ -13,7 +13,7 @@
 }
 
 .grid-col-3 {
-	@include bp(gamma) {
+	@include bp(xray) {
 		.grid-module {
 			width: 30%;
 			margin-right: 5%;
