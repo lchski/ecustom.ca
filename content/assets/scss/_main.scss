@@ -44,6 +44,24 @@
 		@include font-size(16);
 	}
 
+	figure.block-quote {
+			padding-left: 2rem;
+			border-left: 0.5rem solid $blue;
+		blockquote {
+			@include serif-font(20, true);
+		}
+
+		figcaption {
+			margin-top: 0.5rem;
+
+			@include font-size(16);
+
+			cite {
+				@include serif-font(16, true);
+			}
+		}
+	}
+
 	a {
 		color: $blue;
 
