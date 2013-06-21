@@ -13,17 +13,13 @@
 		margin: 2.5rem 0 1rem 0;
 	}
 
+	h3 {
+		@include sans-serif-font(25, true);
+	}
+
 	p {
 		margin-bottom: 1rem;
 		line-height: 1.4;
-
-		a {
-			color: $blue;
-
-			&:hover {
-				text-decoration: none;
-			}
-		}
 
 		code {
 			background: $white - rgb(10, 10, 10);
@@ -44,7 +40,19 @@
 		}
 	}
 
+	a {
+		color: $blue;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
 	ul, ol {
-		margin-left: 2rem;
+		margin-left: 2.5rem;
+	}
+
+	ul li {
+		list-style-type: circle;
 	}
 }
