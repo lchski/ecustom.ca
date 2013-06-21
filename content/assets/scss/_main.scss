@@ -1,3 +1,11 @@
 #site-main {
-	
+	h1.article-title {
+		@include font-size(39.063);
+
+		line-height: 1.2;
+	}
+
+	p.article-intro {
+		@include font-size(25);
+	}
 }
