@@ -21,15 +21,6 @@
 		margin-bottom: 1rem;
 		line-height: 1.4;
 
-		code {
-			background: $white - rgb(10, 10, 10);
-
-			padding: 0.1rem;
-
-			font-family: "Monaco", "Inconsolata", Consolas, monospaced;
-			@include font-size(16);
-		}
-
 		&.article-intro {
 			@include font-size(25);
 			margin-bottom: 1.5rem;
@@ -42,6 +33,15 @@
 		&.article-feed-subscribe {
 			@include sans-serif-font(25);
 		}
+	}
+
+	code {
+		background: $white - rgb(10, 10, 10);
+
+		padding: 0.1rem;
+
+		font-family: "Monaco", "Inconsolata", Consolas, monospaced;
+		@include font-size(16);
 	}
 
 	a {
