@@ -78,4 +78,26 @@
 	ul li {
 		list-style-type: circle;
 	}
+
+	ol.article-list {
+		margin: 0;
+		list-style-type: none;
+
+		h2 {
+			margin: 2.5rem 0 1rem 0;
+
+			a {
+				color: $black;
+				text-decoration: none;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+
+		li:first-of-type h2 {
+			margin-top: 0;
+		}
+	}
 }
