@@ -30,7 +30,7 @@ footer.site-footer {
 			}
 		}
 
-		@include bp(gamma) {
+		@include bp(xray) {
 			margin-top: 0;
 			float: right;
 		}

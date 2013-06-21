@@ -8,6 +8,8 @@ header.site-header {
 
 	text-align: center;
 
+	width: 100%;
+
 	a {
 		color: $white;
 		text-decoration: none;
@@ -24,10 +26,22 @@ header.site-header {
 			&:hover {
 				color: $orange;
 			}
+
+			@include bp(gamma) {
+				float: left;
+				line-height: 4rem;
+			}
 		}
 	}
 
 	nav {
+		ul {
+			@include bp(gamma) {
+				float: right;
+				line-height: 4rem;
+			}
+		}
+
 		li {
 			list-style: none;
 			display: inline-block;
@@ -37,5 +51,11 @@ header.site-header {
 				margin-right: 0;
 			}
 		}
+	}
+
+	@include bp(gamma) {
+		text-align: left;
+
+		@include clearfix();
 	}
 }

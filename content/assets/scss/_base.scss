@@ -47,9 +47,15 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 	 */
 
 	@if $breakpoint-width == gamma {
-		@media (min-width: 20em) { @content }
+		@media (min-width: 25em) { @content }
 	}
 	@else if $breakpoint-width == xray {
 		@media (min-width: 40em) { @content }
 	}
+}
+
+@mixin clearfix() {
+	content: "";
+	display: table;
+	clear: both;
 }
