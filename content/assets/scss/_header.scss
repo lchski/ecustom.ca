@@ -1,0 +1,41 @@
+header.site-header {
+	@include sans-serif-font(20);
+
+	background: $black;
+	color: $white;
+
+	padding: 1rem 0;
+
+	text-align: center;
+
+	a {
+		color: $white;
+		text-decoration: none;
+
+		&:hover {
+			color: $orange;
+			text-decoration: underline;
+		}
+
+		&.name {
+			@include font-size(25);
+			color: $white;
+
+			&:hover {
+				color: $orange;
+			}
+		}
+	}
+
+	nav {
+		li {
+			list-style: none;
+			display: inline-block;
+			margin-right: 1rem;
+
+			&:last-of-type {
+				margin-right: 0;
+			}
+		}
+	}
+}
