@@ -1,7 +1,11 @@
+// Various important bits
 @import "_base";
 @import "_normalize";
 @import "_grid";
 @import "_type";
+
+// Page Sections
+@import "_header";
 @import "_footer";
 
 body {
