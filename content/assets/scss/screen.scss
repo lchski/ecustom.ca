@@ -22,7 +22,27 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 20px;
 
 	@include bp(gamma) {
-		font-size: 24px;
+		font-size: 22px;
 		padding: 0 10%;
+	}
+
+	@include bp(xray) {
+		padding: 0 15%;
+	}
+
+	@include bp(ultraviolet) {
+		padding: 0 25%;
+	}
+
+	@include bp(visible) {
+		font-size: 24px;
+	}
+
+	@include bp(infrared) {
+		padding: 0 30%;
+	}
+
+	@include bp(microwave) {
+		font-size: 28px;
 	}
 }

@@ -52,6 +52,18 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 	@else if $breakpoint-width == xray {
 		@media (min-width: 40em) { @content }
 	}
+	@else if $breakpoint-width == ultraviolet {
+		@media (min-width: 55em) { @content }
+	}
+	@else if $breakpoint-width == visible {
+		@media (min-width: 65em) { @content }
+	}
+	@else if $breakpoint-width == infrared {
+		@media (min-width: 80em) { @content }
+	}
+	@else if $breakpoint-width == microwave {
+		@media (min-width: 90em) { @content }
+	}
 }
 
 @mixin clearfix() {
