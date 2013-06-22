@@ -19,7 +19,7 @@
 	}
 
 	p {
-		margin-bottom: 1rem;
+		margin-bottom: 1.6rem;
 		line-height: 1.4;
 
 		&.article-intro {
@@ -33,6 +33,16 @@
 
 		&.article-feed-subscribe {
 			@include sans-serif-font(2);
+		}
+
+		@include bp(xray) {
+			line-height: 1.5;
+			margin-bottom: 2rem;
+		}
+
+		@include bp(microwave) {
+			line-height: 1.6;
+			margin-bottom: 2.4rem;
 		}
 	}
 
@@ -58,7 +68,7 @@
 			@include font-size(-1);
 
 			cite {
-				@include serif-font(-1, true);
+				@include serif-font(false, true);
 			}
 		}
 	}
