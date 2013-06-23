@@ -1,6 +1,6 @@
 ---
 title: Password Management with LastPass
-kind: article
+kind: draft
 created_at: 2012-12-11 20:00:00 -0400
 summary: Passwords on the web suck. Lastpass makes them a lot better. Here's how I use Lastpass to make my password management awesome.
 published: false
