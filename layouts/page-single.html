@@ -1,5 +1,7 @@
 <article>
-	<h1><%= @item[:page_title] %></h1>
+	<% if @item[:page_title] %>
+		<h1><%= @item[:page_title] %></h1>
+	<% end %>
 
 	<%= yield %>
 </article>
