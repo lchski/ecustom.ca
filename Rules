@@ -43,6 +43,11 @@ compile '/articles/' do
   end
 end
 
+compile '/' do
+  layout 'frontpage'
+  layout 'default'
+end
+
 compile '*' do
   if item.binary?
   else
