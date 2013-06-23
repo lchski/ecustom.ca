@@ -72,11 +72,11 @@ route 'assets/scss/*' do
   nil
 end
 
-route 'assets/js/*' do
-  nil
+route '/assets/css/*/' do
+  item.identifier.chop + '.' + item[:extension]
 end
 
-route '/assets/css/*/' do
+route '/assets/js/*/' do
   item.identifier.chop + '.' + item[:extension]
 end
 
