@@ -6,6 +6,10 @@
 		padding-bottom: 2rem;
 	}
 
+	h1 {
+		@include font-size(3);
+	}
+
 	h1.article-title {
 		@include font-size(4);
 
