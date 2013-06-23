@@ -8,6 +8,7 @@
 
 	h1 {
 		@include font-size(3);
+		margin-top: 2.5rem;
 	}
 
 	h1.article-title {
@@ -118,10 +119,6 @@
 					text-decoration: underline;
 				}
 			}
-		}
-
-		li:first-of-type h2 {
-			margin-top: 0;
 		}
 	}
 
