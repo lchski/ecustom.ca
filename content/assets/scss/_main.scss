@@ -1,6 +1,10 @@
 #site-main {
 	background: $white;
-	padding: 2rem 0;
+
+	.container {
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+	}
 
 	h1.article-title {
 		@include font-size(4);
