@@ -59,7 +59,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 		@media (min-width: 65em) { @content }
 	}
 	@else if $breakpoint-width == infrared {
-		@media (min-width: 80em) { @content }
+		@media (min-width: 81em) { @content }
 	}
 	@else if $breakpoint-width == microwave {
 		@media (min-width: 90em) { @content }
