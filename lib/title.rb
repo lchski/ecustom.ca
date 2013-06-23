@@ -1,6 +1,6 @@
 def title(global, page, empty)
 	if page == "Home"
-		global + " - " + empty
+		global
 	else
 		page + " - " + global
 	end
