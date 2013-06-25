@@ -4,6 +4,7 @@ kind: draft
 created_at: 2013-03-29 20:00:00 -0400
 summary: It's important as designers that we are aware of the whole, rather than just the parts, when we design.
 published: false
+frontpage: false
 custom_link: 
 ---
 

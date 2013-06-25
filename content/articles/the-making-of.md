@@ -4,6 +4,7 @@ kind: article
 created_at: 2012-11-02 18:00:00 -0400
 summary: A more in-depth look at the new version of this website, covering the publishing engine powering my humble home on the internet.
 published: true
+frontpage: false
 custom_link: 
 ---
 

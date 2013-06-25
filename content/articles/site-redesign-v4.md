@@ -4,6 +4,7 @@ kind: article
 created_at: 2013-06-23 19:00:00 -0400
 summary: I've redesigned this site, for the fourth time in it's history.
 published: true
+frontpage: true
 custom_link: 
 ---
 

@@ -4,6 +4,7 @@ kind: article
 created_at: 2012-10-29 22:00:00 -0400
 summary: The story of Mr. Al Chez and the change he brought about to my life.
 published: true
+frontpage: false
 custom_link: Read the full story
 ---
 

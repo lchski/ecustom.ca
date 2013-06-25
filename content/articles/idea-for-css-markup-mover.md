@@ -4,6 +4,7 @@ kind: article
 created_at: 2013-02-04 21:20:00 -0400
 summary: Wouldn't it be useful to be able to specify where a block of markup might be moved in the document using a CSS property?
 published: true
+frontpage: false
 custom_link: 
 ---
 

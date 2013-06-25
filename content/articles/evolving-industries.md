@@ -4,6 +4,7 @@ kind: article
 created_at: 2013-06-25 16:00:00 -0400
 summary: A look at changes, for better or for worse, in our largest industries.
 published: true
+frontpage: false
 custom_link: Read the full essay
 ---
 

@@ -4,6 +4,7 @@ kind: article
 created_at: 2012-10-15
 summary: My story about a woman who boards my bus each morning, and how other people on the bus react to her presence.
 published: true
+frontpage: false
 custom_link: Read the full story
 ---
 

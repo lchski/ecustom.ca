@@ -4,6 +4,7 @@ kind: article
 created_at: 2012-12-10 21:00:00 -0400
 summary: When I was younger, I had a very irrational fear which involved skating lessons, ice rinks, and cruel 6 year olds.
 published: true
+frontpage: false
 custom_link: Read the full story
 ---
 

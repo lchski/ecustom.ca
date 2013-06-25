@@ -4,6 +4,7 @@ kind: article
 created_at: 2013-04-21 22:00:00 -0400
 summary: While attending a recent concert, I thought about the perspective of creator's.
 published: true
+frontpage: false
 custom_link: 
 ---
 
