@@ -9,6 +9,9 @@
 @import "_main";
 @import "_footer";
 
+// 3rd Party
+@import "_prism";
+
 body {
 	@include serif-font();
 }
