@@ -70,12 +70,13 @@
 	}
 
 	code {
-		background: $white - rgb(10, 10, 10);
+		padding: 0.3rem 0.5rem;
 
-		padding: 0.1rem;
-
-		font-family: "Monaco", "Inconsolata", Consolas, monospaced;
 		@include font-size(-1);
+	}
+
+	pre code {
+		padding: 0;
 	}
 
 	figure.block-quote {
