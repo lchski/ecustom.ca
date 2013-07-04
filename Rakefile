@@ -7,9 +7,7 @@ task :newpost do
 end
 
 task :clean do
-	system('rmdir', '/s', '/q', 'output', 'tmp')
-	system('echo', 'Removed ./output/')
-	system('echo', 'Removed ./tmp/')
+	system('nanoc', 'prune', '--yes')
 end
 
 task :compile do
