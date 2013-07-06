@@ -42,6 +42,8 @@ The talks I want to watch are a large cross section, covering the various aspect
 
 Also, watching presenters from such a variety of fields covering such a variety of topics will prepare me better for my eventual speaking endeavours. I'm applying to speak at [WordCamp Toronto](http://2013.toronto.wordcamp.org/) in October, as well as WordCamp Montr&eacute;al next summer, plus some other events in between. I'll be much more prepared to handle these situations if I have more exposure to the different styles present at WordCamps.
 
+If you know of any great talks that I've missed, please let me know using [Twitter](https://twitter.com/lchski) or, if you prefer, by [email](mailto:lucas@ecustom.ca)!
+
 And now, for the great collection of blue.
 
 The talks I've watched after that are as follows (I'll keep this list updated as I go):
