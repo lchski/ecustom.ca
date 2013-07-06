@@ -1,6 +1,7 @@
 ---
 title: Info
 page_title: 
+published: true
 ---
 
 {::options parse_block_html="true" /}
