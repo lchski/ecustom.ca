@@ -18,4 +18,4 @@ With that said, I plan to publish some good pieces of journalism, from objective
 
 Expect a coming post detailing the technology powering the website, as well as a more detailed history of ecustom.ca throughout the past few years.
 
-With all that said, welcome to my new home! Feel free to send me comments and feedback through my [contact page](/contact/ "Contact Me"). Cheers!
+With all that said, welcome to my new home! Feel free to send me comments and feedback through [Twitter](https://twitter.com/lchski). Cheers!

@@ -87,6 +87,6 @@ Another fun benefit is that I got to work with a cool technology which I haven't
 
 ## Conclusion
 
-ecustom.ca is powered by [nanoc](http://nanoc.stoneship.org/ "nanoc"), a super-cool static-site generator which allows me to focus on my writing, which is a priority now as I try to write and publish more. If you have any questions about nanoc, feel free to [get in touch with me](/contact/ "Contact Me") and I'll do my best to sort you out.
+ecustom.ca is powered by [nanoc](http://nanoc.stoneship.org/ "nanoc"), a super-cool static-site generator which allows me to focus on my writing, which is a priority now as I try to write and publish more. If you have any questions about nanoc, feel free to [get in touch with me](https://twitter.com/lchski) and I'll do my best to sort you out.
 
 This website has been through a couple of major iterations now, with the current version being v3.0. I however, prefer to think of this as a completely new version. To assign it a version number greater than 1.0 would be to imply that it is in some way related to the previous versions. In reality, it is different in all ways, even the name, and as such deserves to have its version counter reset. This is v1.0 of ecustom.ca. Welcome to the party, I look forward to enjoying it with you.

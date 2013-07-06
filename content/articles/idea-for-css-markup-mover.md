@@ -93,7 +93,7 @@ Here, we say that the markup should be moved in the document structure relative 
 
 This would allow for us to avoid any extra markup, but it does make the position of the moved markup less concrete (for example, what happens if there are more than one `<small>` elements in the `<header>`?)
 
-Another disadvantage of this method is that there currently exists no implementation for it! If someone is willing to work with me to develop one, as a JavaScript solution or similar, [get in touch](/contact/) and we'll talk.
+Another disadvantage of this method is that there currently exists no implementation for it! If someone is willing to work with me to develop one, as a JavaScript solution or similar, [get in touch](https://twitter.com/lchski) and we'll talk.
 
 ## Conclusion and Next Steps
 
