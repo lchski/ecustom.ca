@@ -2,7 +2,7 @@
 title: A Talk a Day
 kind: article
 created_at: 2013-07-05 22:00:00 -0400
-summary: This summer will be the least scheduled I've ever had --- but I don't intend for it to be my least useful.
+summary: This summer will be the least scheduled I've ever had... But I don't intend for it to be my least useful.
 published: true
 frontpage: false
 custom_link: 
@@ -10,7 +10,7 @@ custom_link:
 
 <p class="article-intro">With a rather empty summer schedule, I've put some plans in place to make the most of it, by watching a talk a day.</p>
 
-This summer will be the least scheduled I've ever had; because my family isn't traveling for any major vacations, and I'm only volunteering for two weeks I'll have lots of spare time to myself. I know that if I don't fill that spare time with something useful, I'll wither intellectually... So I've put together my "talk a day" plan to keep myself engaged through the next few months.
+This summer will be the least scheduled I've ever had; because my family isn't traveling for any major vacations and I'm only volunteering for two weeks, I'll have lots of spare time to myself. I know that if I don't fill that spare time with something useful, I'll wither intellectually... So I've put together my "talk a day" plan to keep myself engaged through the next few months.
 
 I got a great intellectual kickoff to my summer with my attendance at [WordCamp Montr&eacute;al 2013](/articles/after-wordcamp-montreal-2013), where I heard lots of great talks and came away with plenty of notes.
 
