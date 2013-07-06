@@ -25,6 +25,10 @@ compile '/feed/' do
   filter :erb
 end
 
+compile '/sitemap/' do
+  filter :erb
+end
+
 compile '/articles/*/' do
   if item.binary?
   else
@@ -86,6 +90,10 @@ end
 
 route '/feed/' do
   '/feed.xml'
+end
+
+route '/sitemap/' do
+  '/sitemap.xml'
 end
 
 route '*' do
