@@ -1,7 +1,7 @@
 ---
 title: "WordCamp Montr&eacute;al: Build a Website on the Moon: WordPress Development from Anywhere"
 kind: article
-created_at: 2013-07-06 22:00:00 -0400
+created_at: 2013-07-06 21:30:00 -0400
 summary: ""
 published: true
 frontpage: false
