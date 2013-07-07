@@ -8,7 +8,11 @@ frontpage: false
 custom_link: 
 ---
 
-<p class="article-intro">This was my [second WordCamp](/articles/wcto-developers-2012/), and it will definitely not be my last. WordCamp Montr&eacute;al (WCMTL) fulfilled all [my expectations](/articles/before-wordcamp-montreal-2013/) and went beyond.</p>
+{::options parse_block_html="true" /}
+
+<p class="article-intro">
+	This was my [second WordCamp](/articles/wcto-developers-2012/), and it will definitely not be my last. WordCamp Montr&eacute;al (WCMTL) fulfilled all [my expectations](/articles/before-wordcamp-montreal-2013/) and went beyond.
+</p>
 
 This time around I decided to loosen up a bit more than I did previously, and did my best to meet people and get to know about what they did. Needless to say, that resulted in a far more interesting experience for me than when I focused on the talks exclusively, as I did when I attended WCTO: Developers. (See [below](#talks) for the talks I attended.)
 
