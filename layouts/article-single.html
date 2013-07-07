@@ -1,14 +1,18 @@
-<article>
-	<h1 class="article-title"><%= @item[:title] %></h1>
+<article itemscope itemtype="http://schema.org/Article">
+	<h1 itemprop="name" class="article-title"><%= @item[:title] %></h1>
 	
-	<%= yield %>
+	<div itemprop="articleBody"><%= yield %></div>
 	
 	<% if @item[:created_at] %>
-		<p class="article-information">Published on the <%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %>.</p>
+		<p class="article-information">Published on the <time itemprop="datePublished" datetime="<%=@item[:created_at].strftime('%Y-%m-%d %H:%M%:z') %>"><%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %></time>.</p>
 	<% end %>
-	
-	<h2>Questions, Comments, Concerns?</h2>
-	<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
 
-	<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
+	<p class="visually-hidden">
+		By <a href="/"><span itemprop="author">Lucas Cherkewski</span></a>.
+	</p>
 </article>
+	
+<h2>Questions, Comments, Concerns?</h2>
+<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
+
+<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
