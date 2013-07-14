@@ -96,6 +96,14 @@ route '/sitemap/' do
   '/sitemap.xml'
 end
 
+route '/articles/*' do
+  if !item[:published]
+    nil
+  else
+    item.identifier + 'index.html'
+  end
+end
+
 route '*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
