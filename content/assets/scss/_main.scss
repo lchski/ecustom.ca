@@ -106,11 +106,14 @@
 
 	ul, ol {
 		margin-left: 2.5rem;
-		margin-bottom: 1rem;
 	}
 
 	ul li {
 		list-style-type: circle;
+	}
+
+	li {
+		margin-bottom: 1rem;
 	}
 
 	ol.article-list {
