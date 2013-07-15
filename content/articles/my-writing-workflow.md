@@ -14,7 +14,7 @@ My writing workflow has evolved considerably over the past few years, going from
 
 ## My writing workflow
 
-My writing workflow currently works for me, but it falls short 
+This is my writing workflow, which I use
 
 1. An idea comes to me. This could be in the shower, on the bus, or late at night as I toss and turn.
 
