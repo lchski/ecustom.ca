@@ -55,3 +55,19 @@ This process works okay (it's resulting in this article, isn't it?), but there's
 * This system doesn't allow for actually writing and publishing the entire article from anywhere. I'm still tied down to using a computer with specialized software to publish my pieces.
 
 * The idea can go cold. This ties into the previous point. Because I can't write my entire article and then share it from anywhere, I'm limited in my "window of passion." I have to make the most of very limited tools to write down my thoughts once I come upon an idea, and that often isn't enough to craft a good piece of art before the idea disappears from my mind.
+
+* The actual publishing process (step 6) is a major pain. Now, this is largely self-inflicted due to my insistence on using [nanoc](http://nanoc.ws) to publish instead of a dynamic system like [WordPress](http://wordpress.org); but it helps to illustrate the point that a good writing process, and thus a good writing system, should be easy to publish from.
+
+My process (and largely the publishing part of it) does allow for a few niceties, though, which other systems do not:
+
+* I have control over the location of all my content, and can access it at any time. Because my content resides entirely in either: (a) sheets of paper in my notebooks, or (b) plaintext files on my computers, I control where it is. I don't have to worry about exporting it from a company who may or may not allow that in the future... I already have it with me.
+
+* I have control over the presentation. Good ideas require good presentation to accompany them, in order to best *communicate* them to their audience. Great ideas can be communicated via unstyled HTML just fine, but we've come to expect a higher quality from the information we read today.
+
+This system works fine. However, it can be improved to create a writing system that's truly modern, one that works for a variety of workflows and adapts itself --- instead of forcing us to adapt to it.
+
+## The ideal tool of writing
+
+The tool we need for writing, then, has to allow for a few key things.
+
+Our tool needs to 
