@@ -2,7 +2,7 @@
 title: My writing workflow
 kind: article
 created_at: 2013-07-14 24:00:00 -0400
-summary: A look at the process I go through for a piece of writing, from conception to publishing on my site to promotion on other sites.
+summary: A look at the process I go through for a piece of writing, from conception, to publishing on my site, to promotion on other sites.
 published: true
 frontpage: false
 custom_link: 
