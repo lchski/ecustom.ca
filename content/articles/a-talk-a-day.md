@@ -50,13 +50,12 @@ The talks I've watched after that are as follows (I'll keep this list updated as
 
 * [Where the Heck is Everyone? Working with Distributed Teams](http://wordpress.tv/2013/07/01/reid-peifer-where-the-heck-is-everyone-working-with-distributed-teams/) by [Reid Peifer](https://twitter.com/reidpeifer).
 * [Moving from Works for Me to Doing it Right](http://wordpress.tv/2013/06/21/naomi-c-bush-moving-from-works-for-me-to-doing-it-right/) by [Naomi Bush](https://twitter.com/NaomiCBush).
+* [How to Make Six Figures in Web Design](http://wordpress.tv/2013/04/21/james-dalman-how-to-make-six-figures-in-web-design/) by [James Dalman](https://twitter.com/jamesdalman).
 
 Some of the talks I'm planning to watch are as follows (I'll move talks from this list to the previous as I go):
 
-* [WordPress and Git](http://wordpress.tv/2013/05/25/amelia-briscoe-wordpress-and-git/) by [Amelia Briscoe](https://twitter.com/amelia_briscoe).
 * [My WordPress Development Workflow](http://wordpress.tv/2013/05/20/bronson-quick-my-wordpress-development-workflow/) by [Bronson Quick](https://twitter.com/bronsonquick).
 * [The Art of Quality](http://wordpress.tv/2013/04/24/reid-peifer-the-art-of-quality/) by [Reid Peifer](https://twitter.com/reidpeifer).
 * [So You Want to Sell a WordPress Theme or Plugin](http://wordpress.tv/2013/04/22/dave-donaldson-so-you-want-to-sell-a-wordpress-theme-or-plugin/) by [Dave Donaldson](https://twitter.com/arcware).
-* [How to Make Six Figures in Web Design](http://wordpress.tv/2013/04/21/james-dalman-how-to-make-six-figures-in-web-design/) by [James Dalman](https://twitter.com/jamesdalman).
 * [Level-Up Your WordPress Development Skills](http://wordpress.tv/2013/04/26/tom-mcfarlin-level-up-your-wordpress-development-skills/) by [Tom McFarlin](https://twitter.com/tommcfarlin).
 * [Designer vs Developer: Creators in WordPress](http://wordpress.tv/2013/05/02/sara-cannon-designer-vs-developer-creators-in-wordpress-2/) by [Sara Cannon](https://twitter.com/saracannon).
