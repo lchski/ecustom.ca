@@ -3,13 +3,17 @@ require 'nanoc3/tasks'
 task :rebuild => [:clean, :compile]
 
 task :newpost do
-	system('copy', 'templates\new-post.md', 'content\articles\new-post.md')
+	%x[cp templates/new-post.md content/articles/new-post.md]
 end
 
 task :clean do
-	system('nanoc', 'prune', '--yes')
+	%x[nanoc prune --yes]
 end
 
 task :compile do
-	system('nanoc', 'compile')
+	%x[nanoc compile]
+end
+
+task :deploy do
+	%x[ssh ecustom.ca@s135148.gridserver.com 'cd domains/ecustom.ca/html/ && git pull gh master']
 end
