@@ -34,4 +34,4 @@ Go ahead, put your unfinished work out there. Be bold, be confident. Don't be af
 
 I look forward to seeing your unfinished work.
 
-**P.S.** Want to see *my* latest unfinished work? You can read my aforementioned [essay on writing](https://github.com/asdfgh746/ecustom.ca/blob/master/content/articles/writing-process.md). If you have some thoughts on it, I'd love to [hear them](mailto:lucas@ecustom.ca).
+**P.S.** Want to see *my* latest unfinished work? You can read my aforementioned [essay on writing](http://bit.ly/13qPwrn). If you have some thoughts on it, I'd love to [hear them](mailto:lucas@ecustom.ca).
