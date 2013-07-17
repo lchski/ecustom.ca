@@ -1,4 +1,4 @@
 ---
-title: Articles
+title: Notes
 published: true
 ---
