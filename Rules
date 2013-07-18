@@ -47,6 +47,24 @@ compile '/articles/' do
   end
 end
 
+compile '/notes/*/' do
+  if item.binary?
+  else
+    filter :kramdown
+
+    layout 'article-single'
+    layout 'default'
+  end
+end
+
+compile '/notes/' do
+  if item.binary?
+  else
+    layout 'notes-listing'
+    layout 'default'
+  end
+end
+
 compile '/' do
   layout 'frontpage'
   layout 'default'
