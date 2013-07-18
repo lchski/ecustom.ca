@@ -28,7 +28,7 @@ header.site-header {
 				color: $orange;
 			}
 
-			@include bp(gamma) {
+			@include bp(xray) {
 				float: left;
 				line-height: 4rem;
 			}
@@ -37,7 +37,7 @@ header.site-header {
 
 	nav {
 		ul {
-			@include bp(gamma) {
+			@include bp(xray) {
 				float: right;
 				line-height: 4rem;
 			}
@@ -46,7 +46,7 @@ header.site-header {
 		li {
 			list-style: none;
 			display: inline-block;
-			margin-right: 1rem;
+			margin-right: 2rem;
 
 			&:last-of-type {
 				margin-right: 0;
@@ -54,7 +54,7 @@ header.site-header {
 		}
 	}
 
-	@include bp(gamma) {
+	@include bp(xray) {
 		text-align: left;
 
 		@include clearfix();
