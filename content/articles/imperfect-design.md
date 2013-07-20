@@ -8,9 +8,23 @@ frontpage: false
 custom_link: 
 ---
 
-Too often in design, we get caught up with the idea that a design has to be (or even can be) perfect. We strive, we push ourselves to create the best possible interface for our users. We work hard to achieve that 100% interface.
+Too often in design, we get caught up with the idea that a design has to be (or even can be) perfect. We strive, we push ourselves to create the best possible interface for our users. We work hard to achieve that perfect interface.
 
 But are we going about this all wrong?
+
+*I think we are.*
+
+## School marks
+
+To help illustrate my point, I'd like to bring the discussion to school marks, specifically marks in highschool.
+
+Marks in highschool are a funny thing. All through our education up to that point, we're taught that a mark of A (or the coveted A+) is the ultimate standard to achieve. By logic, then, we should see it as 100%, because we can't go any higher.
+
+However, what we see in highschool is actually quite different.
+
+When we arrive at highschool, with our eyes on the look out for bullies in the washrooms, what we hear from our teachers is that an A mark is actually part of a *range of percentages*. (It's at this point my mind was blown when I first received percentage marks.)
+
+So if our "ultimate standard" is no longer represented by a mark of 100%, but rather a mark from 80% to 100%, we realize that that standard is actually easier to achieve.
 
 Notes:
 
