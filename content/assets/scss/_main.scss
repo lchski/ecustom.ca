@@ -12,7 +12,7 @@
 	}
 
 	h1.article-title {
-		@include font-size(4);
+		@include sans-serif-font(3, false, true);
 
 		line-height: 1.2;
 		margin-bottom: 1.5rem;
@@ -30,6 +30,8 @@
 	h2 {
 		line-height: 1.1;
 		margin: 5rem 0 1rem 0;
+
+		@include sans-serif-font(2, false, true);
 	}
 
 	h3 {

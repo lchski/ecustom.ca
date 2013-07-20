@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 .container {
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
-	font-size: 20px;
+	font-size: 18px;
 
 	@include bp(gamma) {
 		padding-left: 10%;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	@include bp(xray) {
-		font-size: 22px;
+		font-size: 18px;
 		padding-left: 15%;
 		padding-right: 15%;
 	}
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	@include bp(visible) {
-		font-size: 24px;
+		font-size: 18px;
 	}
 
 	@include bp(infrared) {
