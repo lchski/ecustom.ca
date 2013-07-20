@@ -1,10 +1,10 @@
 ---
 title: "Stop designing perfectly"
 kind: article
-created_at: 2013-07-18 18:00:00 -0400
+created_at: 2013-07-20 16:30:00 -0400
 summary: We think designs have to be 100% perfect to meet our high standards. But is that really the case?
 published: true
-frontpage: false
+frontpage: true
 custom_link: 
 ---
 
