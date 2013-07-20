@@ -1,5 +1,5 @@
 ---
-title: "An 'A' isn't necessarily 100%"
+title: "Stop designing perfectly"
 kind: article
 created_at: 2013-07-18 18:00:00 -0400
 summary: We think designs have to be 100% perfect to meet our high standards. But is that really the case?
@@ -48,7 +48,7 @@ This can benefit us greatly:
 - Our newfound time can be used talking with customers to find out what they think;
 - This feedback can be used to improve the design the way customers want it to be improved.
 
-Suddenly taking that extra time we'd have spent delaying our product's launch because we wanted the design to be perfect seems much better spent.
+The time we'd have spent delaying our product's launch to get a perfect design is much better spent.
 
 Design isn't perfect. Don't try to make it be. You'll still get an A without getting 100%.
 
