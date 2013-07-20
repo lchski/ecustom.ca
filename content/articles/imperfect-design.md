@@ -8,6 +8,10 @@ frontpage: false
 custom_link: 
 ---
 
+Too often in design, we get caught up with the idea that a design has to be (or even can be) perfect. We strive, we push ourselves to create the best possible interface for our users. We work hard to achieve that 100% interface.
+
+But are we going about this all wrong?
+
 Notes:
 
 * In the school system, a mark of 'A' means a percentage ranging from 80% to 100%.
