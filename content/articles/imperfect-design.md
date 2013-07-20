@@ -26,6 +26,18 @@ When we arrive at highschool, with our eyes on the look out for bullies in the w
 
 So if our "ultimate standard" is no longer represented by a mark of 100%, but rather a mark from 80% to 100%, we realize that that standard is actually easier to achieve.
 
+## The standard shifts
+
+Highschool marks teach us that an A isn't necessarily 100%. An A (what we think to be the ultimate achievement), can be represented by range of marks.
+
+This is a really good thing.
+
+Let's look at design through this lens. How can our designs benefit from us using a range of "marks" to judge our work, instead of just 100%?
+
+## Design isn't perfect
+
+
+
 Notes:
 
 * In the school system, a mark of 'A' means a percentage ranging from 80% to 100%.
