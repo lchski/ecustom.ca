@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 @mixin serif-font($size: 1, $italic: false, $bold: false) {
-	font-family: "proxima-nova", sans-serif;
+	font-family: "prenton", sans-serif;
 	@include font-size($size);
 
 	@if $italic {
