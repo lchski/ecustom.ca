@@ -28,14 +28,14 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	@include bp(xray) {
-		font-size: 18px;
+		font-size: 20px;
 		padding-left: 15%;
 		padding-right: 15%;
 	}
 
 	@include bp(ultraviolet) {
-		padding-left: 25%;
-		padding-right: 25%;
+		padding-left: 27.5%;
+		padding-right: 27.5%;
 	}
 
 	@include bp(visible) {
