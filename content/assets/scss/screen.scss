@@ -20,17 +20,17 @@ h1, h2, h3, h4, h5, h6 {
 .container {
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
-	font-size: 20px;
+	font-size: 16px;
 
 	@include bp(gamma) {
-		padding-left: 10%;
-		padding-right: 10%;
+		padding-left: 12.5%;
+		padding-right: 12.5%;
 	}
 
 	@include bp(xray) {
-		font-size: 22px;
-		padding-left: 15%;
-		padding-right: 15%;
+		font-size: 18px;
+		padding-left: 20%;
+		padding-right: 20%;
 	}
 
 	@include bp(ultraviolet) {
@@ -39,7 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	@include bp(visible) {
-		font-size: 24px;
+		padding-left: 27.5%;
+		padding-right: 27.5%;
 	}
 
 	@include bp(infrared) {
@@ -48,8 +49,8 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	@include bp(microwave) {
-		padding-left: 32.5%;
-		padding-right: 32.5%;
+		padding-left: 35%;
+		padding-right: 35%;
 	}
 }
 
