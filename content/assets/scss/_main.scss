@@ -29,9 +29,7 @@
 
 	h2 {
 		line-height: 1.1;
-		margin: 5rem 0 1rem 0;
-
-		@include sans-serif-font(2, false, true);
+		margin: 3rem 0 1rem 0;
 	}
 
 	h3 {
@@ -40,7 +38,7 @@
 
 	p {
 		margin-bottom: 1.6rem;
-		line-height: 1.4;
+		line-height: 1.6;
 
 		&.article-intro {
 			@include font-size(2);
@@ -132,6 +130,7 @@
 		list-style-type: none;
 
 		h2 {
+			@include sans-serif-font(2, false, true);
 			margin: 2.5rem 0 1rem 0;
 
 			a {
@@ -141,6 +140,10 @@
 				&:hover {
 					text-decoration: underline;
 				}
+			}
+
+			@include bp(xray) {
+				margin-top: 3.5rem;
 			}
 		}
 	}
@@ -155,5 +158,15 @@
 		background: lighten($black, 70%);
 		width: 60%;
 		margin: 0 auto 2rem auto;
+
+		@include bp(ultraviolet) {
+			margin-top: 2.5rem;
+			margin-bottom: 2.5rem;
+		}
+
+		@include bp(microwave) {
+			margin-top: 3rem;
+			margin-bottom: 3rem;
+		}
 	}
 }
