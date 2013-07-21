@@ -30,10 +30,12 @@
 	h2 {
 		line-height: 1.1;
 		margin: 3rem 0 1rem 0;
+
+		@include sans-serif-font(2, false, true);
 	}
 
 	h3 {
-		@include sans-serif-font(2, true);
+		@include sans-serif-font(1, false, true);
 	}
 
 	p {
@@ -130,7 +132,6 @@
 		list-style-type: none;
 
 		h2 {
-			@include sans-serif-font(2, false, true);
 			margin: 2.5rem 0 1rem 0;
 
 			a {
