@@ -59,3 +59,7 @@ Keep highschool marks in mind as you go forth to design the next "best"-looking 
 I look forward to seeing all your imperfect designs.
 
 **Note:** This article was inspired by [an article by Arley McBlain](http://arleym.com/breaking-the-rules/), where he mentioned that you can write less code and still have an element that looks 85% great. His stuff rocks, go read it.
+
+***
+
+[John Fish](http://johnafish.ca), a good friend of mine, wrote up [a response to this piece](http://johnafish.ca/writing/perfection.html). His take is interesting, though I'd like to point out that I never said making mistakes was okay. Go check it out, it provides a good differing perspective to this issue.
