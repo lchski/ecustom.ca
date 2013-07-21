@@ -58,4 +58,4 @@ Keep highschool marks in mind as you go forth to design the next "best"-looking 
 
 I look forward to seeing all your imperfect designs.
 
-**PS.** This article was inspired by [an article by Arley McBlain](http://arleym.com/breaking-the-rules/), where he mentioned that you can write less code and still have an element that looks 85% great. His stuff rocks, go read it.
+**Note:** This article was inspired by [an article by Arley McBlain](http://arleym.com/breaking-the-rules/), where he mentioned that you can write less code and still have an element that looks 85% great. His stuff rocks, go read it.
