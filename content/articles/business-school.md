@@ -1,3 +1,13 @@
+---
+title: Run your business like a school
+kind: article
+created_at: 2013-07-27 15:00:00 -0400
+summary: Bring everybody together, and improve your company's productivity and culture.
+published: true
+frontpage: false
+custom_link: 
+---
+
 We can learn a lot from education systems. They've worked for years to find organizational structures that work for them, and we can improve our businesses a lot by modelling ourselves after their proven models.
 
 There are two common school models:
