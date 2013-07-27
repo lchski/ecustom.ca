@@ -57,10 +57,6 @@ For life, you want all your awesome people to get to know each other. Provide op
 
 After all, who doesn't prefer working with friends?
 
-## Run your business like a school
+***
 
-These changes are potentially very significant. It can be difficult to bring everyone together, and it can be hard to find venues with which to have people make friends.
-
-But in the words of Frederick Douglass, "If there is no struggle, there is no progress."
-
-Struggle to bring about change within your organization. Run it like a school, and enjoy the benefits.
+Work hard to bring about these changes within your organization. Run it like a school, and enjoy the benefits.
