@@ -13,7 +13,7 @@ button {
 	text-decoration: none;
 
 	@include border-radius(.15em);
-	border-bottom: .15em solid $orange - #100;
+	border-bottom: .15em solid $blue - #100;
 
 	width: 100%;
 	text-align: center;
@@ -31,7 +31,7 @@ button {
 	}
 
 	&:hover {
-		background: $orange + #111;
+		background: $blue + #111;
 	}
 
 	&:active {
