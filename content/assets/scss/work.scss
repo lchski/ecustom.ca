@@ -4,7 +4,6 @@
 @import "_button";
 
 #site-main {
-
 	.work-callout {
 		@include font-size(3);
 		text-align: center;
@@ -17,6 +16,12 @@
 
 		p {
 			margin-bottom: 0.5rem;
+		}
+
+		a {
+			@include font-size(-1);
+			margin-top: 1rem;
+			color: $white;
 		}
 	}
 }
