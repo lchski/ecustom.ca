@@ -5,40 +5,6 @@ $white: rgba(250, 250, 250, 1);
 $grey: rgba(101, 101, 101, 1);
 $black: rgba(51, 51, 51, 1);
 
-* {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section, figure {
-	margin: 0;
-	padding: 0;
-}
-
-header, footer, nav, section, article, hgroup, figure {
-	display: block;
-}
-
-html {
-	font-size: 10px; // Set 1rem to be equal to 10px, to be easier to work with.
-}
-
-.visually-hidden { /*http://developer.yahoo.com/blogs/ydn/posts/2012/10/clip-your-hidden-content-for-better-accessibility/*/
-	position: absolute !important;
-	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-	clip: rect(1px, 1px, 1px, 1px);
-	padding:0 !important;
-	border:0 !important;
-	height: 1px !important;
-	width: 1px !important;
-	overflow: hidden;
-}
-
-body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button {
-	display: none !important;
-}
-
 @mixin bp($breakpoint-width) {
 	/* BREAKPOINT NAMING CONVENTION
 	 *
