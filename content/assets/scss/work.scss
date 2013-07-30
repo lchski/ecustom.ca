@@ -24,4 +24,10 @@
 			color: $white;
 		}
 	}
+
+	.work-carry-on {
+		padding: 3rem 0;
+		text-align: center;
+		@include font-size(2);
+	}
 }
