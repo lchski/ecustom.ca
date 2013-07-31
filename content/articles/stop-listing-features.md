@@ -5,7 +5,10 @@ created_at: 2013-07-31 16:30:00 -0400
 summary: You can get many more customers for your product by avoiding the common trap of listing features, and instead appealing to emotions.
 published: true
 frontpage: true
-editor: '<a href="https://twitter.com/eddywerdy">Edward Lu</a>'
+editor:
+ -
+   name: Edward Lu
+   url: https://twitter.com/eddywerdy
 custom_link: 
 ---
 
