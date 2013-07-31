@@ -4,7 +4,7 @@
 	<div itemprop="articleBody"><%= yield %></div>
 	
 	<% if @item[:created_at] %>
-		<p class="article-information">Published on the <time itemprop="datePublished" datetime="<%=@item[:created_at].strftime('%Y-%m-%d %H:%M%:z') %>"><%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %></time>.</p>
+		<p class="article-information">Published on the <time itemprop="datePublished" datetime="<%=@item[:created_at].strftime('%Y-%m-%d %H:%M%:z') %>"><%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %></time>.<% if @item[:editor] %>Thanks to my friend <%= @item[:editor] %> for editing.<% end %></p>
 	<% end %>
 
 	<p class="visually-hidden">

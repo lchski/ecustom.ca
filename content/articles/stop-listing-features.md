@@ -5,6 +5,7 @@ created_at: 2013-07-31 16:30:00 -0400
 summary: You can get many more customers for your product by avoiding the common trap of listing features, and instead appealing to emotions.
 published: true
 frontpage: true
+editor: '<a href="https://twitter.com/eddywerdy">Edward Lu</a>'
 custom_link: 
 ---
 
@@ -63,5 +64,3 @@ Appealing to emotions is much more powerful because they have such strong effect
 Stop listing features. Start explaining what you can do for your users, and start gaining customers.
 
 **P.S.** Want some help moving away from future lists? I'd love to [work with you](/work/).
-
-*Thanks to my friend [Edward Lu](https://twitter.com/eddywerdy) for editing.*
