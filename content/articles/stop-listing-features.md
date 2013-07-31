@@ -63,4 +63,4 @@ Appealing to emotions is much more powerful because they have such strong effect
 
 Stop listing features. Start explaining what you can do for your users, and start gaining customers.
 
-**P.S.** Want some help moving away from future lists? I'd love to [work with you](/work/).
+**P.S.** Want some help moving away from feature lists? I'd love to [help you out](mailto:lucas@ecustom.ca).
