@@ -61,3 +61,7 @@ In fact, this applies to just about any situation where the goal is to convince 
 Appealing to emotions is much more powerful because they have such strong effects on us. Harness the power of emotions when you explain the benefits of what your service does. Harness the power of emotions when you explain why you're the best freelancer for the job. Harness the power of emotions when you need people to listen to you.
 
 Stop listing features. Start explaining what you can do for your users, and start gaining customers.
+
+**P.S.** Want some help moving away from future lists? I'd love to [work with you](/work/).
+
+*Thanks to my friend [Edward Lu](https://twitter.com/eddywerdy) for editing.*
