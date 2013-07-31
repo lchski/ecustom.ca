@@ -1,0 +1,33 @@
+@import "_base";
+@import "_type";
+
+@import "_button";
+
+#site-main {
+	.work-callout {
+		@include font-size(3);
+		text-align: center;
+		padding-bottom: 2rem;
+
+		img {
+			padding: 2rem 0;
+			max-width: 50%;
+		}
+
+		p {
+			margin-bottom: 0.5rem;
+		}
+
+		a {
+			@include font-size(-1);
+			margin-top: 2rem;
+			color: $white;
+		}
+	}
+
+	.work-carry-on {
+		padding: 3rem 0;
+		text-align: center;
+		@include font-size(2);
+	}
+}

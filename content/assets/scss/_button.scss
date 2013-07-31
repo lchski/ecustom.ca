@@ -1,0 +1,41 @@
+button {
+	border: none;
+}
+
+.button {
+	padding: .5em;
+
+	background: $blue;
+	color: white;
+
+	display: inline-block;
+
+	text-decoration: none;
+
+	@include border-radius(.15em);
+	border-bottom: .15em solid $blue - #100;
+
+	width: 100%;
+	text-align: center;
+
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.15);
+
+	@include single-transition(background-color, 0.2s, ease);
+
+	span {
+		display: none;
+
+		@include bp(gamma) {
+			display: inline;
+		}
+	}
+
+	&:hover {
+		background: $blue + #111;
+	}
+
+	&:active {
+		position: relative;
+		top: 1px;
+	}
+}
