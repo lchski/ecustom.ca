@@ -1,9 +1,9 @@
 ---
 title: When do your actions really matter?
 kind: article
-created_at: 2013-08-01 18:00:00 -0400
-summary: You can get many more customers for your product by avoiding the common trap of listing features, and instead appealing to emotions.
-published: true
+created_at: 2013-08-04 18:00:00 -0400
+summary: Your actions can have a big impact on your future, so when do they really start to matter?
+published: false
 frontpage: true
 editor:
  -
@@ -12,7 +12,7 @@ editor:
  -
    name: John Fish
    url: https://johnafish.ca
-custom_link: 
+ca: 
 ---
 
 When you were in school, you were probably told countless times that, "This is when it really matters." "This is when you have to start working hard, because it counts." "These decisions will form the rest of your life."
