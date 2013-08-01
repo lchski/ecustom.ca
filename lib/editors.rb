@@ -12,6 +12,8 @@ def output_editors(editors)
 
 		if editors.count - index == 1
 			output += ' '
+		elsif editors.count - index == 2
+			output += ' and '
 		else
 			output += ', '
 		end
