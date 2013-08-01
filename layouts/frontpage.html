@@ -7,8 +7,6 @@
 <p class="article-information">Published on the <%= number_to_ordinal(article[:created_at].strftime('%d')) %> of <%= article[:created_at].strftime('%B, %Y') %>.</p>
 <% end %>
 
-<%= render '_twitter-blurb' %>
-
 <p>Read more of <a href="/articles/">my writing</a>.</p>
 	<% break %>
 	<% end %>
