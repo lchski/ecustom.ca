@@ -110,6 +110,10 @@ route '/feed/' do
   '/feed.xml'
 end
 
+route '/full_feed/' do
+  '/full_feed.xml'
+end
+
 route '/sitemap/' do
   '/sitemap.xml'
 end
