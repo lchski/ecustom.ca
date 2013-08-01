@@ -11,7 +11,7 @@ editor:
    url: https://twitter.com/eddywerdy
  -
    name: John Fish
-   url: https://twitter.com/thejohnfish
+   url: https://johnafish.ca
 custom_link: 
 ---
 
