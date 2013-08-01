@@ -25,6 +25,10 @@ compile '/feed/' do
   filter :erb
 end
 
+compile '/full/' do
+  filter :erb
+end
+
 compile '/sitemap/' do
   filter :erb
 end
@@ -108,6 +112,10 @@ end
 
 route '/feed/' do
   '/feed.xml'
+end
+
+route '/full/' do
+  '/full.xml'
 end
 
 route '/sitemap/' do
