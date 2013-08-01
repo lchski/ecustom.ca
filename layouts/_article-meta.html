@@ -1,0 +1,15 @@
+<% if @item[:created_at] %>
+	<p class="article-information">
+		Published on the <time itemprop="datePublished" datetime="<%=@item[:created_at].strftime('%Y-%m-%d %H:%M%:z') %>"><%= number_to_ordinal(@item[:created_at].strftime('%d')) %> of <%= @item[:created_at].strftime('%B, %Y') %></time>.
+		<% if @item[:editor] %>
+		Thanks to my friend<% if @item[:editor].count > 1 %>s<% end %>
+		<% for editor in @item[:editor] %>
+		<a href="<%= editor[:url] %>"><%= editor[:name] %></a>
+		<% end %> for editing.
+		<% end %>
+	</p>
+<% end %>
+
+<p class="visually-hidden">
+	By <a href="/"><span itemprop="author">Lucas Cherkewski</span></a>.
+</p>

@@ -3,9 +3,7 @@
 <h1 class="article-title"><%= link_to article[:title], article %></h1>
 <%= article.compiled_content %>
 
-<% if article[:created_at] %>
-<p class="article-information">Published on the <%= number_to_ordinal(article[:created_at].strftime('%d')) %> of <%= article[:created_at].strftime('%B, %Y') %>.</p>
-<% end %>
+<%= render '_article-meta' %>
 
 <p>Read more of <a href="/articles/">my writing</a>.</p>
 	<% break %>
