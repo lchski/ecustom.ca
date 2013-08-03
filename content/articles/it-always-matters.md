@@ -1,9 +1,9 @@
 ---
 title: When do your actions really matter?
-kind: draft
-created_at: 2013-08-04 18:00:00 -0400
-summary: Your actions can have a big impact on your future, so when do they really start to matter?
-published: false
+kind: article
+created_at: 2013-08-03 09:00:00 -0400
+summary: Your actions can have a big impact on your future, but when do they really start to matter?
+published: true
 frontpage: true
 editor:
  -
