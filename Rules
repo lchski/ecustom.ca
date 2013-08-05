@@ -69,6 +69,10 @@ compile '/notes/' do
   end
 end
 
+compile '/perfect-client/' do
+  nil
+end
+
 compile '/' do
   layout 'frontpage'
   layout 'default'
