@@ -15,7 +15,9 @@ editor:
 custom_link: 
 ---
 
-Good art and, by extension, good design requires the artist to create constraints within which they do their work. They can then judge the strength of their resulting work by how well it satisfies these constraints.
+![](/assets/img/design-constraints-writing.jpg)
+
+<p class="article-intro">Good art and, by extension, good design requires the artist to create constraints within which they do their work. They can then judge the strength of their resulting work by how well it satisfies these constraints.</p>
 
 Constraints are good not just because they provide a method by which we can judge our work, but also because they can act as a framework upon which to *build* our work.
 
