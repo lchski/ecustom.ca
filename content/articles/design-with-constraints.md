@@ -1,5 +1,5 @@
 ---
-title: "Problem-Oriented Design: Obtaining Constraints"
+title: "Constraints lead to great design"
 kind: article
 created_at: 2013-08-06 20:00:00 -0400
 summary: Asking questions and continuing to question deeper leads to effective constraints within which to design.
@@ -17,7 +17,7 @@ custom_link:
 
 ![](/assets/img/design-constraints-writing.jpg)
 
-<p class="article-intro">Good art and, by extension, good design requires the artist to create constraints within which they do their work. They can then judge the strength of their resulting work by how well it satisfies these constraints.</p>
+<p class="article-intro">Great art and, by extension, great design requires the artist to create constraints within which they do their work. They can then judge the strength of their resulting work by how well it satisfies these constraints.</p>
 
 Constraints are good not just because they provide a method by which we can judge our work, but also because they can act as a framework upon which to *build* our work.
 
