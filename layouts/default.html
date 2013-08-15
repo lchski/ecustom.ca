@@ -23,6 +23,8 @@
 		<meta name="twitter:title" content="<%= title 'Lucas Cherkewski', @item[:title], 'Lucas Cherkewski' %>">
 		<% if @item[:summary] %><meta name="twitter:description" content="<%= @item[:summary][0..199] %>"><% end %>
 
+		<% if @item[:summary] %><meta name="description" content="<%= @item[:summary][0..199] %>"><% end %>
+
 		<!--[if lt IE 9]>
 			<script src="/assets/js/html5shiv.js"></script>
 		<![endif]-->
