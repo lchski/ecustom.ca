@@ -1,3 +1,13 @@
+---
+title: ""
+kind: draft
+created_at: 2013-08-08 19:35:00 -0400
+summary: ""
+published: false
+frontpage: false
+custom_link: 
+---
+
 This site is mutable. It's gone through many changes, having started out as my business' site, but then moved on to being my personal site.
 
 However, if this site were to again change, and my personal site move somewhere else, would there be a negative effect?
