@@ -2,7 +2,7 @@
 title: A triumphant... update?
 kind: article
 created_at: 2013-09-05 15:45:00 -0400
-summary: It&rdquo;s a good thing I didn&rdquo;t promise to update this site frequently. Updates about the month of August, and looking to September.
+summary: It&rsquo;s a good thing I didn&rsquo;t promise to update this site frequently. Updates about the month of August, and looking to September.
 published: true
 frontpage: false
 custom_link: 
