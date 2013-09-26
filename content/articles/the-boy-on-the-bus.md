@@ -2,7 +2,7 @@
 title: The Boy on the Bus
 kind: article
 created_at: 2013-09-26
-summary: Make connections with everybody&emdash;even the little people.
+summary: Make connections with everybody&mdash;even the little people.
 published: true
 frontpage: false
 custom_link: Read the full story
