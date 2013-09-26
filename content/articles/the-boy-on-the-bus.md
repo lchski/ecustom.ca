@@ -8,7 +8,9 @@ frontpage: false
 custom_link: Read the full story
 ---
 
+<p class="article-info">
 I met a boy on the bus today. He's 7 years old, in grade 2 at a local school.
+</p>
 
 The first thing he said to me was that he was, "[thankful] there's no bees in the bus!" He went on to describe his life at school. He's got two teachers (though he's not sure why), and his favourite thing to do is recess.
 
