@@ -12,7 +12,7 @@ custom_link:
 I do all my writing in the open. Anyone can view what I'm working on, the ugly drafts and the stupid ideas, at any time. This rocks.
 </p>
 
-How do I write in the open? For those adventurous few who want to delve into my site's [GitHub repo](https://github.com/asdfgh746/ecustom.ca), they can see all the writing I have. They can see the finished articles, the drafts, and the discarded but never deleted ideas. It's all there.
+How do I write in the open? For those adventurous few who want to delve into my site's [GitHub repo](https://github.com/lchski/ecustom.ca), they can see all the writing I have. They can see the finished articles, the drafts, and the discarded but never deleted ideas. It's all there.
 
 ## Be accountable
 

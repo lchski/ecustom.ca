@@ -87,7 +87,7 @@ So it seems to be at least somewhat acceptable for an element to exist which is 
 
 A possible solution to this is to, instead of using a new element, use the proposed `target` CSS property to say where the markup should move *relative to an existing element*. What do I mean by this? Perhaps this code would help to demonstrate:
 
-<script src="https://gist.github.com/asdfgh746/4711456.js"></script>
+<script src="https://gist.github.com/lchski/4711456.js"></script>
 
 Here, we say that the markup should be moved in the document structure relative to already existing elements. For tablet devices, this means positioning it after the `<header>` element, and for desktop devices it means positioning it after the `<small>` element contained within the `<header>`. We use regular CSS selectors to select the element we wish to position it after. If we wanted to position it before, we would substitute `after` in the code with `before`.
 

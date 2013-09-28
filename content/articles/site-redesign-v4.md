@@ -44,7 +44,7 @@ The core technology running this site is still the same (see my [post about the 
 
 I depended a lot more upon git and the features it provides for this version. The power of branching was much appreciated as I worked to solve different problems, because I could try out different solutions and switch quickly between them.
 
-One thing which I did a bit overzealously with this workflow was commit. If you look at the [repo for this site](https://github.com/asdfgh746/ecustom.ca/commits/master), you'll see that, before the redesign, I had committed 32 times from October 2012 to June 2013. Since starting upon my redesign journey, I've committed 85 times over 4 days.
+One thing which I did a bit overzealously with this workflow was commit. If you look at the [repo for this site](https://github.com/lchski/ecustom.ca/commits/master), you'll see that, before the redesign, I had committed 32 times from October 2012 to June 2013. Since starting upon my redesign journey, I've committed 85 times over 4 days.
 
 In future workflows, I'll try to not commit incremental changes as much as I did here. I'd like my commit style to be a bit more restrained, and perhaps limit it to implementation of features, or significant work towards doing so.
 

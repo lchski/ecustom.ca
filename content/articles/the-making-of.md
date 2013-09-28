@@ -77,7 +77,7 @@ Now, I could have done this all in WordPress, or even creating all the static fi
 
 ## Other Benefits of nanoc
 
-Using nanoc also provides me some additional benefits. Namely, I get to open-source my whole website! That's right, the [code for this site](https://github.com/asdfgh746/ecustom.ca "GitHub - asdfgh746/ecustom.ca") is available on GitHub. You'll need nanoc to generate it, but you can look through it and hopefully learn about the operation of nanoc.
+Using nanoc also provides me some additional benefits. Namely, I get to open-source my whole website! That's right, the [code for this site](https://github.com/lchski/ecustom.ca "GitHub - lchski/ecustom.ca") is available on GitHub. You'll need nanoc to generate it, but you can look through it and hopefully learn about the operation of nanoc.
 
 With the code being open-source and available on GitHub, it also means the entire site is managed by git. This means that I can version control all my articles and versions of my site. No more WordPress revisions which kinda-sorta make sense, just commits which I manage and control.
 
