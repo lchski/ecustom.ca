@@ -46,7 +46,7 @@ Let's look at some of the issues with this workflow:
 
 * The actual publishing process (step 6) is a major pain.
 
-	When I publish something, I have to first format the file in Markdown using a special header to provide the article metadata. Then, I have to commit it to git, and push it to my [GitHub repo for this website](https://github.com/asdfgh746/ecustom.ca). Then, I have to rebuild the site using nanoc, commit the results of that to git repo and push that repo to [Github](https://github.com/asdfgh746/ecustom.ca-output). Finally, I have to SSH into my web server and `git pull` the repo back down from GitHub.
+	When I publish something, I have to first format the file in Markdown using a special header to provide the article metadata. Then, I have to commit it to git, and push it to my [GitHub repo for this website](https://github.com/lchski/ecustom.ca). Then, I have to rebuild the site using nanoc, commit the results of that to git repo and push that repo to [Github](https://github.com/lchski/ecustom.ca-output). Finally, I have to SSH into my web server and `git pull` the repo back down from GitHub.
 
 	Now, this is largely self-inflicted due to my insistence on using [nanoc](http://nanoc.ws) to publish instead of a dynamic system like [WordPress](http://wordpress.org); but it helps to illustrate the point that a good writing process, and thus a good writing system, should be easy to publish from.
 
