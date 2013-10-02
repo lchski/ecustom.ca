@@ -6,6 +6,10 @@ summary: My thoughts before attending (and speaking at!) WordCamp Toronto this w
 published: true
 frontpage: false
 custom_link: 
+editor:
+ -
+   name: Edward Lu
+   url: https://twitter.com/eddywerdy
 ---
 
 <p class="article-intro">
