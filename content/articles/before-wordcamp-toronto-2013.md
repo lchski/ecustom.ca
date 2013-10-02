@@ -1,8 +1,8 @@
 ---
-title: Before WordCamp Montr&eacute;al 2013
+title: Before WordCamp Toronto 2013
 kind: article
 created_at: 2013-10-02 17:00:00 -0400
-summary: My thoughts before attending WordCamp Toronto this weekend.
+summary: My thoughts before attending (and speaking at!) WordCamp Toronto this weekend.
 published: true
 frontpage: false
 custom_link: 
