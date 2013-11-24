@@ -13,21 +13,123 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet/' do
+compile '/posthook/' do
+  # don't filter or layout
+end
+
+compile '/assets/*/' do
   # don’t filter or layout
+end
+
+compile '/htaccess/' do
+  # don't filter or layout
+end
+
+compile '/feed/' do
+  filter :erb
+end
+
+compile '/full/' do
+  filter :erb
+end
+
+compile '/sitemap/' do
+  filter :erb
+end
+
+compile '/articles/*/' do
+  if item.binary?
+  else
+    filter :kramdown
+
+    layout 'default'
+  end
+end
+
+compile '/articles/' do
+  if item.binary?
+  else
+    layout 'default'
+  end
+end
+
+compile '/notes/*/' do
+  if item.binary?
+  else
+    filter :kramdown
+
+    layout 'default'
+  end
+end
+
+compile '/notes/' do
+  if item.binary?
+  else
+    layout 'default'
+  end
+end
+
+compile '/' do
+  layout 'default'
+end
+
+compile '*' do
+  if item.binary?
+  else
+    if item[:extension] == 'md'
+      filter :kramdown
+    end
+
+    layout 'default'
+  end
 end
 
 compile '*' do
   if item.binary?
     # don’t filter binary items
   else
-    filter :erb
     layout 'default'
   end
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/posthook/' do
+  item.identifier.chop + '.' + item[:extension]
+end
+
+route 'assets/scss/*' do
+  nil
+end
+
+route '/assets/css/*/' do
+  item.identifier.chop + '.' + item[:extension]
+end
+
+route '/assets/js/*/' do
+  item.identifier.chop + '.' + item[:extension]
+end
+
+route '/htaccess/' do
+  '/.htaccess'
+end
+
+route '/feed/' do
+  '/feed.xml'
+end
+
+route '/full/' do
+  '/full.xml'
+end
+
+route '/sitemap/' do
+  '/sitemap.xml'
+end
+
+route '/articles/*' do
+  if !item[:published]
+    nil
+  else
+    item.identifier + 'index.html'
+  end
 end
 
 route '*' do
