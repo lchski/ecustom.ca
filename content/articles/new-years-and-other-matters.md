@@ -28,4 +28,9 @@ As much as I despise the contrived change that people impose upon themselves thi
 
 I&rsquo;ll close this little update with a quote from one of my favourite journalists. Let this be one of your references in this New Year of change:
 
-&ldquo;Seek the truth, keep people honest, explore the world, and laugh at the absurdity of it all.&rdquo; &mdash; Walter Cronkite
+<figure class="block-quote">
+	<blockquote>Seek the truth, keep people honest, explore the world, and laugh at the absurdity of it all.</blockquote>
+	<figcaption>
+		<p>Walter Cronkite</p>
+	</figcaption>
+</figure>
