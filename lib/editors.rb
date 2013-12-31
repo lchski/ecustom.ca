@@ -8,7 +8,11 @@ def output_editors(editors)
 	end
 
 	editors.each_with_index do |editor,index|
-		output += '<a href="' + editor[:url] + '">' + editor[:name] + '</a>'
+		if editor[:url]
+			output += '<a href="' + editor[:url] + '">' + editor[:name] + '</a>'
+		else
+			output += editor[:name]
+		end
 
 		if editors.count - index == 1
 			output += ' '
