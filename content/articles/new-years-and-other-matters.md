@@ -6,6 +6,10 @@ summary: New Year&rsquo;s resolutions are unfortunate, but in any case here&rsqu
 published: true
 frontpage: false
 custom_link: 
+editor:
+ -
+   name: Edward Lu
+   url: https://twitter.com/eddywerdy
 ---
 
 Articles about New Year&rsquo;s resolutions are a dime a dozen this time of year. Generally speaking, I find the notion of New Year&rsquo;s resolutions to be contrived&mdash;why are we choosing *this specific day* to choose how we&rsquo;d like to change ourselves within merely the confines of the coming year? There&rsquo;s little appreciable gain to doing it this time of year, and yet society, as it so often does, moves as one to do so.
