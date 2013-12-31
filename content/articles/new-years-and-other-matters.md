@@ -14,8 +14,6 @@ editor:
 
 Articles about New Year&rsquo;s resolutions are a dime a dozen this time of year. Generally speaking, I find the notion of New Year&rsquo;s resolutions to be contrived&mdash;why are we choosing *this specific day* to choose how we&rsquo;d like to change ourselves within merely the confines of the coming year? There&rsquo;s little appreciable gain to doing it this time of year, and yet society, as it so often does, moves as one to do so.
 
-I hate contrived notions.
-
 Even so, the occasion of everyone else rushing to journal their resolutions for the coming year has given me cause to write up this little piece. It&rsquo;s been a while since I wrote here, and as always I won&rsquo;t promise that that will change any time soon. I&rsquo;ve been spending a lot of time writing for myself lately, and the result of that is less writing which makes it to the eyes of the public.
 
 While you won&rsquo;t find any New Year&rsquo;s resolutions in this piece, I will point you in the direction of an essay I&rsquo;m publishing alongside this article. *[A Hard Floor](http://ecustom.ca/articles/a-hard-floor/)* takes a look at how to avoid the issue of complacency&mdash;a matter I consider very important, especially this time of year when we consider ourselves to be in a place wherein we are capable of changing ourselves. (As if that&rsquo;s not possible any other time of year.)
