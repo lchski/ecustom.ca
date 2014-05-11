@@ -19,6 +19,6 @@ Completion of the project by the agreed-upon date is subject to the client provi
 * Written content,
 * Imagery/photography.
 
-After completion of the project, clients own (where applicable) the resulting deliverable in its entirety. However, clients grant license to Lucas Cherkewski to use their work as examples of his past work.
+After completion of the project, clients own (where applicable) the resulting deliverable in its entirety. However, clients grant license to Lucas Cherkewski to use their work as examples of his past work, as well as as a base/starting point for future projects. Exclusive licensing must be negotiated with Lucas directly.
 
-*These terms and conditions last updated on 2013-07-30.*
+*These terms and conditions last updated on 2014-05-10.*
