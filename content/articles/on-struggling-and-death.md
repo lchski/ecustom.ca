@@ -5,7 +5,7 @@ created_at: 2014-06-12 22:00:00 -0400
 summary: Two sides to the same story.
 published: true
 frontpage: false
-custom_link: 
+custom_link: Read the full story 
 ---
 
 He battled with the mast, trying to keep it together so he wouldn’t be stranded. As he heard another crack, he paused before continuing his efforts. He thought about his life—about his friends, about his family, about his accomplishments. He realized that he was happy with his life. He had done all that he wished to do, there was no more for him. With that, he knew what he had to do. He quit his fight with a smile on his face, and let the sea swallow him along with his little craft.
