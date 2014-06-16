@@ -1,3 +1,3 @@
 ## ecustom.ca
 
-A nanoc-generated website for Lucas Cherkewski.
+A jekyll-generated website for Lucas Cherkewski.
