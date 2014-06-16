@@ -2,5 +2,6 @@
   "name": "ecustomca",
   "version": "0.0.0",
   "dependencies": {
+    "normalize.scss": "~2.2.0+normalize.2.1.3"
   }
 }
