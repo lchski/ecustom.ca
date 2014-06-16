@@ -1,1 +1,11 @@
 @import "../_bower_components/normalize.scss/normalize";
+
+.site-wrap {
+  display: flex;
+
+  flex-flow: row wrap;
+}
+
+header, main {
+  flex: 0 0 100%;
+}
