@@ -1,4 +1,6 @@
 header[role="banner"] {
+  font-size: 0.8em;
+
   @include secondary-text-face();
 
   a.main-image {
