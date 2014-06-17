@@ -52,6 +52,10 @@ header[role="banner"] {
         );
       transition: all 0.5s ease;
     }
+
+    b {
+      font-weight: 400;
+    }
   }
 
   .header-nav {
@@ -104,6 +108,11 @@ header[role="banner"] {
       flex: 0 0 6.5rem;
 
       padding: 1em;
+
+      b {
+        display: inline-block;
+        margin-top: 1.5em;
+      }
     }
 
     .header-nav {
