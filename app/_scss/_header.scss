@@ -12,12 +12,12 @@ header[role="banner"] {
     display: block;
 
     width: 100%;
-    padding: 0.5rem;
+    padding: 0.5em;
 
     background:
       linear-gradient(
-        rgba($bright, 0.8),
-        rgba($bright, 0.8)
+        rgba($bright, 0.85),
+        rgba($bright, 0.85)
       ),
       repeating-linear-gradient(
         to right,
@@ -36,8 +36,8 @@ header[role="banner"] {
 
       background:
         linear-gradient(
-          rgba($bright, 0.85),
-          rgba($bright, 0.85)
+          rgba($bright, 0.8),
+          rgba($bright, 0.8)
         ),
         repeating-linear-gradient(
           to right,
@@ -55,15 +55,28 @@ header[role="banner"] {
   }
 
   nav {
-    padding: 0.5rem;
-
     display: flex;
     flex-flow: row wrap;
 
-    background: $grey;
+    padding: 1em;
+
+    background:
+      linear-gradient(
+        rgba($bright, 0.15),
+        rgba($bright, 0.15)
+      ),
+      $red;
 
     a {
+      color: $bright;
+
+      text-decoration: none;
+
       flex: 1 1 50%;
+
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
