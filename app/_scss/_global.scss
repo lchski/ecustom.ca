@@ -5,3 +5,11 @@ html {
 * {
   box-sizing: border-box;
 }
+
+@mixin primary-text-face() {
+  font-family: Georgia, serif;
+}
+
+@mixin secondary-text-face() {
+  font-family: "effra", sans-serif;
+}
