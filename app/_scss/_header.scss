@@ -6,19 +6,19 @@ header[role="banner"] {
 
     background:
       linear-gradient(
-        rgba($dark, 0.2),
-        rgba($dark, 0.2)
+        rgba($bright, 0.75),
+        rgba($bright, 0.75)
       ),
       repeating-linear-gradient(
         to right,
         $red,
-        $red 10px,
-        $brown 10px,
-        $brown 20px,
-        $bright 20px,
-        $bright 30px,
-        $grey 30px,
-        $grey 40px
+        $red 1em,
+        $dark 1em,
+        $dark 2em,
+        $brown 2em,
+        $brown 3em,
+        $grey 3em,
+        $grey 4em
       );
   }
 }
