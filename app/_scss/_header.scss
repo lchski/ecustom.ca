@@ -96,36 +96,55 @@ header[role="banner"] {
     }
   }
 
-  @media (min-width: 650px) {
-    display: flex;
-    height: 6.5rem;
+  .header-wrap {
+    @media (min-width: 650px) {
+      display: flex;
+      height: 6.5rem;
 
-    a.main-image {
-      line-height: 1.5;
+      a.main-image {
+        line-height: 1.5;
 
-      text-align: left;
+        text-align: left;
 
-      flex: 0 0 6.5rem;
+        flex: 0 0 6.5rem;
 
-      padding: 1em;
+        padding: 1em;
 
-      b {
-        display: inline-block;
-        margin-top: 1.5em;
+        b {
+          display: inline-block;
+          margin-top: 1.5em;
+        }
       }
-    }
 
-    .header-nav {
-      flex: 1 1;
+      .header-nav {
+        flex: 1 1;
 
-      nav {
-        height: 6.5rem;
-        width: 50%;
+        @media (min-width: $header-sidebar-switch) {
+          flex: 1 1 100%;
+        }
 
-        a {
-          flex: 1 1 50%;
+        nav {
+          height: 6.5rem;
+          width: 50%;
+
+          a {
+            flex: 1 1 50%;
+
+            @media (min-width: $header-sidebar-switch) {
+              flex: 1 1 100%;
+            }
+          }
         }
       }
     }
+
+    @media (min-width: $header-sidebar-switch) {
+      flex-flow: row wrap;
+    }
+  }
+
+  @media (min-width: $header-sidebar-switch) {
+    // This is where the "header" goes wild.
+    flex: 0 0 6.5rem;
   }
 }

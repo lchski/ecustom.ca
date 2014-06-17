@@ -9,7 +9,13 @@
 }
 
 header, main {
-  flex: 0 0 100%;
+  flex: 1 1 100%;
+}
+
+@media (min-width: $header-sidebar-switch) {
+  main {
+    flex: 1 1;
+  }
 }
 
 @import "header";
