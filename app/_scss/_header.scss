@@ -4,7 +4,21 @@ header[role="banner"] {
     width: 100%;
     padding: 1rem;
 
-    background-image: url(/img/site/headshot-sidebar.jpg);
-    background-size: 100% auto;
+    background:
+      linear-gradient(
+        rgba($dark, 0.2),
+        rgba($dark, 0.2)
+      ),
+      repeating-linear-gradient(
+        to right,
+        $red,
+        $red 10px,
+        $brown 10px,
+        $brown 20px,
+        $bright 20px,
+        $bright 30px,
+        $grey 30px,
+        $grey 40px
+      );
   }
 }
