@@ -22,13 +22,13 @@ header[role="banner"] {
       repeating-linear-gradient(
         to right,
         $red,
-        $red 1em,
-        $dark 1em,
-        $dark 2em,
-        $brown 2em,
-        $brown 3em,
-        $grey 3em,
-        $grey 4em
+        $red 1rem,
+        $dark 1rem,
+        $dark 2rem,
+        $brown 2rem,
+        $brown 3rem,
+        $grey 3rem,
+        $grey 4rem
       );
 
     &:hover {
@@ -42,16 +42,25 @@ header[role="banner"] {
         repeating-linear-gradient(
           to right,
           $red,
-          $red 1em,
-          $dark 1em,
-          $dark 2em,
-          $brown 2em,
-          $brown 3em,
-          $grey 3em,
-          $grey 4em
+          $red 1rem,
+          $dark 1rem,
+          $dark 2rem,
+          $brown 2rem,
+          $brown 3rem,
+          $grey 3rem,
+          $grey 4rem
         );
       transition: all 0.5s ease;
     }
+  }
+
+  .header-nav {
+    background:
+      linear-gradient(
+        rgba($bright, 0.15),
+        rgba($bright, 0.15)
+      ),
+      $red;
   }
 
   nav {
@@ -59,13 +68,6 @@ header[role="banner"] {
     flex-flow: row wrap;
 
     padding: 1em;
-
-    background:
-      linear-gradient(
-        rgba($bright, 0.15),
-        rgba($bright, 0.15)
-      ),
-      $red;
 
     a {
       color: $bright;
@@ -86,6 +88,33 @@ header[role="banner"] {
 
       @media (min-width: 350px) {
         flex-basis: 25%;
+      }
+    }
+  }
+
+  @media (min-width: 700px) {
+    display: flex;
+    height: 6.5rem;
+
+    a.main-image {
+      line-height: 1.5;
+
+      text-align: left;
+
+      flex: 0 0 6.5rem;
+
+      padding: 1em;
+    }
+
+    .header-nav {
+      flex: 1 1;
+
+      nav {
+        height: 6.5rem;
+
+        a {
+          flex: 1 1 50%;
+        }
       }
     }
   }
