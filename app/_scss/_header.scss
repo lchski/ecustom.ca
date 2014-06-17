@@ -74,10 +74,18 @@ header[role="banner"] {
 
       text-decoration: none;
 
-      flex: 1 1 50%;
+      flex: 1 1 100%;
 
       &:hover {
         text-decoration: underline;
+      }
+
+      @media (min-width: 170px) {
+        flex-basis: 50%;
+      }
+
+      @media (min-width: 350px) {
+        flex-basis: 25%;
       }
     }
   }
