@@ -125,6 +125,11 @@ header[role="banner"] {
 
           a {
             flex: 1 1 50%;
+
+            &:nth-child(1), &:nth-child(2) {
+              display: inline-flex;
+              align-items: flex-end;
+            }
           }
         }
       }
