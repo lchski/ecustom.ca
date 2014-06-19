@@ -13,8 +13,6 @@ header[role="banner"] {
     text-align: center;
     text-decoration: none;
 
-    font-weight: 800;
-
     display: block;
 
     width: 100%;
@@ -160,6 +158,8 @@ header[role="banner"] {
       }
 
       a.header-name {
+        font-weight: 800;
+
         flex: 1 1;
 
         &:hover {
@@ -190,6 +190,10 @@ header[role="banner"] {
     .header-wrap {
       img {
         display: none;
+      }
+
+      a.header-name {
+        font-size: 1rem;
       }
 
       p.header-bio {
