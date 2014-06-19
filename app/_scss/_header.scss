@@ -7,7 +7,7 @@ header[role="banner"] {
     display: none;
   }
 
-  a.header-home {
+  a.header-name {
     color: $dark;
 
     text-align: center;
@@ -109,7 +109,7 @@ header[role="banner"] {
       display: flex;
       height: 4rem;
 
-      a.header-home {
+      a.header-name {
         line-height: 1.5;
 
         text-align: left;
@@ -156,7 +156,7 @@ header[role="banner"] {
         max-width: 100%;
       }
 
-      a.header-home {
+      a.header-name {
         flex: 1 1;
 
         &:hover {
