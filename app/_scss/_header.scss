@@ -71,33 +71,33 @@ header[role="banner"] {
         rgba($bright, 0.15)
       ),
       $red;
-  }
 
-  nav {
-    display: flex;
-    flex-flow: row wrap;
+    nav {
+      display: flex;
+      flex-flow: row wrap;
 
-    padding: 1em;
+      padding: 1em;
 
-    a {
-      color: $bright;
+      a {
+        color: $bright;
 
-      line-height: 1.5;
+        line-height: 1.5;
 
-      text-decoration: none;
+        text-decoration: none;
 
-      flex: 1 1 100%;
+        flex: 1 1 100%;
 
-      &:hover {
-        text-decoration: underline;
-      }
+        &:hover {
+          text-decoration: underline;
+        }
 
-      @media (min-width: 170px) {
-        flex-basis: 50%;
-      }
+        @media (min-width: 170px) {
+          flex-basis: 50%;
+        }
 
-      @media (min-width: 350px) {
-        flex-basis: 25%;
+        @media (min-width: 350px) {
+          flex-basis: 25%;
+        }
       }
     }
   }
