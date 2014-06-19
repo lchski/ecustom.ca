@@ -186,6 +186,7 @@ header[role="banner"] {
   // This is when our now-sidebar decides it likes being variably fat. It’s kinda exciting.
   @media (min-width: 1000px) {
     flex: 0 0 30%;
+    max-width: 18rem;
 
     .header-wrap {
       img {
