@@ -188,12 +188,17 @@ header[role="banner"] {
     flex: 0 0 30%;
 
     .header-wrap {
+      img {
+        display: none;
+      }
+
       p.header-bio {
-        background: $dark;
-        color: $bright;
+        background: $bright;
 
         padding: 1em;
         display: inline;
+
+        line-height: 1.4;
 
         margin: 0;
       }
