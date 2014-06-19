@@ -1,0 +1,7 @@
+main {
+  font-size: 0.8em;
+
+  padding: 1em;
+
+  @include primary-text-face();
+}
