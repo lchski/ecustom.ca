@@ -102,6 +102,7 @@ header[role="banner"] {
     }
   }
 
+  // The header becomes a single horizontal bar, with left and right alignments.
   @media (min-width: 650px) {
     .header-wrap {
       display: flex;
@@ -141,8 +142,8 @@ header[role="banner"] {
     }
   }
 
+  // This is where the "header" goes wild.
   @media (min-width: $header-sidebar-switch) {
-    // This is where the "header" goes wild.
     flex: 0 0 10em;
 
     .header-wrap {
