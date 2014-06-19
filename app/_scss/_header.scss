@@ -7,7 +7,7 @@ header[role="banner"] {
     display: none;
   }
 
-  a.main-image {
+  a.header-home {
     color: $dark;
 
     text-align: center;
@@ -109,7 +109,7 @@ header[role="banner"] {
       display: flex;
       height: 4rem;
 
-      a.main-image {
+      a.header-home {
         line-height: 1.5;
 
         text-align: left;
@@ -156,18 +156,12 @@ header[role="banner"] {
         max-width: 100%;
       }
 
-      a.main-image {
+      a.header-home {
         flex: 1 1;
-        padding: 0;
 
         &:hover {
           text-decoration: underline;
           transition: all 0.5s ease;
-        }
-
-        b {
-          display: inline-block;
-          padding: 1em;
         }
       }
 
