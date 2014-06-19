@@ -102,8 +102,8 @@ header[role="banner"] {
     }
   }
 
-  .header-wrap {
-    @media (min-width: 650px) {
+  @media (min-width: 650px) {
+    .header-wrap {
       display: flex;
       height: 4rem;
 
