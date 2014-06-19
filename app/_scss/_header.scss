@@ -64,6 +64,10 @@ header[role="banner"] {
     }
   }
 
+  p.header-bio {
+    display: none;
+  }
+
   .header-nav {
     background:
       linear-gradient(
@@ -142,7 +146,7 @@ header[role="banner"] {
     }
   }
 
-  // This is where the "header" goes wild.
+  // This is where the "header" goes wild. It becomes a... sidebar.
   @media (min-width: $header-sidebar-switch) {
     flex: 0 0 10em;
 
@@ -175,6 +179,23 @@ header[role="banner"] {
             flex: 1 1 100%;
           }
         }
+      }
+    }
+  }
+
+  // This is when our now-sidebar decides it likes being variably fat. It’s kinda exciting.
+  @media (min-width: 1000px) {
+    flex: 0 0 30%;
+
+    .header-wrap {
+      p.header-bio {
+        background: $dark;
+        color: $bright;
+
+        padding: 1em;
+        display: inline;
+
+        margin: 0;
       }
     }
   }
