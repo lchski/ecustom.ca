@@ -30,7 +30,7 @@ I’d like to keep this regular publishing up. We’ll see how that goes.
 
 ***
 
-*If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. (This is to cover the past few months, because it’s been [a while since I’ve done this last](/articles/september-2013/).*
+*If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. (This is to cover the past few months, because it’s been [a while since I’ve done this last](/articles/september-2013/).)*
 
 Dear friend who I know, or person who wants to be my friend but I don’t know (in which case, [get in touch](mailto:lucas@lucascherkewski.com)), or person who is on a deep internet dive and has chanced across my work:
 
