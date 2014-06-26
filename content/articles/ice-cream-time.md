@@ -1,7 +1,7 @@
 ---
 title: Ice Cream Time
 kind: article
-created_at: 2014-06-04 19:00:00 -0400
+created_at: 2014-06-05 19:00:00 -0400
 summary: We only live one life, and that life isn’t found on the internet. It’s found outside of it.
 published: true
 frontpage: true
