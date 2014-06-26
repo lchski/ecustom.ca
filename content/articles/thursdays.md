@@ -30,15 +30,15 @@ I’d like to keep this regular publishing up. We’ll see how that goes.
 
 ***
 
-*If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. (This is to cover the past few months, because it’s been [a while since I’ve done this last](/articles/september-2013/).)*
+*If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. This is to cover the past few months, because it’s been [a while since I’ve done this last](/articles/september-2013/).*
 
 Dear friend who I know, or person who wants to be my friend but I don’t know (in which case, [get in touch](mailto:lucas@lucascherkewski.com)), or person who is on a deep internet dive and has chanced across my work:
 
-I finished another year of school! During that time I realized that my focus in life felt much more directed towards the liberal arts than I’d ever thought before, and I began to move away from the sciences and maths towards a study of words. (Lots and lots of words.) That, combined with a rejuvenated passion for design, has made my education altogether more interesting.
+I finished another year of school and realized that my educational passion is for the liberal arts and design.
 
-Working for two friends, Sonja Katanic and Emma Cohen, I did the web design and some editing for their online magazine, [Plasma Dolphin](http://plasmadolphin.com/). The adjectives I’ve heard used to describe it include “rad”, “wicked”, and “funky” (okay, that last one was me), and I encourage you to check it out. This project for me has been (and will continue to be) an exercise in patience and in last-minute productivity as I race to meet deadlines, but I love my friends and I love Plasma. Publication work is fun. I enjoy it to no end.
+Working for two friends, Sonja Katanic and Emma Cohen, I did the web design and some editing for their online magazine, [Plasma Dolphin](http://plasmadolphin.com/). The adjectives I’ve heard used to describe it include “rad”, “wicked”, and “funky” (okay, that last one was me), and I encourage you to check it out. This project for me has been (and will continue to be) an exercise in patience and last-minute productivity as I race to meet deadlines, but I love those friends and I love Plasma. Publication work is fun. I enjoy it to no end.
 
-I spoke at WordCamp Ottawa in May. I talked (again) about [how to work with developers](http://2014.ottawa.wordcamp.org/sessions/#post-850416), a talk which I tweaked and love but have now semi-retired. (You can check out [the slides](https://speakerdeck.com/lchski/be-the-perfect-client-round-2), if you wish.) Being in Ottawa for the conference reminded me yet again why I love that city so much. There’s a feeling to it that I haven’t gotten many other places—something to do with it being the nation’s capital city, I think. Capital cities are always special places.
+I spoke at WordCamp Ottawa in May. I talked (again) about [how to work with developers](http://2014.ottawa.wordcamp.org/sessions/#post-850416), a talk which I tweaked and love but have now semi-retired. (You can check out [the slides](https://speakerdeck.com/lchski/be-the-perfect-client-round-2), if you wish.) Being in Ottawa for the conference reminded me yet again why I love that city so much. There’s a feeling to it that I haven’t gotten in many other places—something to do with it being the nation’s capital city, I think. Capital cities are always special places.
 
 Looking again at the work side of things, I’ve been keeping a fairly low profile of steady work. Right now I’m working on an exciting project with a local real estate group, which is enabling me to play with WordPress in ways I never have before. An article (or talk) will probably come out of that in the future; it’s an ideal candidate for a case study.
 
