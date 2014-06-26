@@ -1,7 +1,7 @@
 ---
 title: Thursdays
 kind: article
-created_at: 2014-06-25 18:00:00 -0400
+created_at: 2014-06-26 18:00:00 -0400
 summary: An update on my writing hereabouts transformed into an update on my life. A bit self-indulgent.
 published: true
 frontpage: false
