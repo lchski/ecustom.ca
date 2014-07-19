@@ -17,29 +17,20 @@
 
     </head>
     <body>
-      <div class="site-wrap">
-        <header role="banner">
-          <div class="header-wrap">
-            <a class="header__name" href="/">
-              Lucas<br> Cherkewski
-            </a>
+      <header class="page-head" role="banner">
+        <div class="wrapper">
+          <nav class="site-nav">
+            <a class="site-nav__home" href="/">Lucas Cherkewski</a>
+            <ul class="site-nav__list">
+              <li><a class="site-nav__item" href="/writing/">Journal</a></li>
+              <li><a class="site-nav__item" href="/reading/">Reading</a></li>
+              <li><a class="site-nav__item" href="/about/">About</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
 
-            <p class="header__bio">
-              I’m a designer. That means I come up with solutions. Whether it’s by creating a print project, playing with pixels, or by, my favourite, writing words, my job is to use whichever tool is most appropriate to solve the problem at hand.
-            </p>
-
-            <nav class="header__menu">
-              <ul>
-              <li><a href="/writing/">Journal</a></li>
-              <li><a href="/reading/">Reading</a></li>
-              <li><a href="/about/">About</a></li>
-              </ul>
-            </nav>
-          </div>
-        </header>
-
-        {{ content }}
-      </div>
+      {{ content }}
 
     <!-- build:js(app) /js/scripts.js -->
     <script src="/js/main.js"></script>
