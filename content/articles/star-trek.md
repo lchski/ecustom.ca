@@ -1,5 +1,5 @@
 ---
-title: The <i>Star Trek</i> Future
+title: The Star Trek Future
 kind: article
 created_at: 2014-12-06 20:30:00 -0400
 summary: The <i>Star Trek</i> version of things is pretty great. But where is it?
