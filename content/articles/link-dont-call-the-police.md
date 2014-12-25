@@ -16,7 +16,7 @@ frontpage: true
 
 Go read [the piece](http://imaginealternatives.tumblr.com/post/487334687/feeling-for-the-edge-of-your-imagination-finding).
 
-I wasn’t familiar with the term “prision industrial complex” before reading this (and to be honest, I’ll have to read much more to really grasp it), but it’s reminding me of some past research I did into community/social justice initiatives.
+I wasn’t familiar with the term “prison industrial complex” before reading this (and to be honest, I’ll have to read much more to really grasp it), but it’s reminding me of some past research I did into community/social justice initiatives.
 
 I don’t have the energy to write up more right now, but this is a topic I’d like to revisit in the future. If you’re stuck and want to do something about it *right now* (which makes you a great human being), [Community Justice Initiatives](http://www.cjiwr.com/) is an organization which makes great strides locally in this field. It’s the season of giving, [throw a few bucks their way](http://www.cjiwr.com/give-with-us.htm).
 
